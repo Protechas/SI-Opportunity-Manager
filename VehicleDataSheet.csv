@@ -3218,3 +3218,385 @@
 2024,Lexus,NX300
 2024,Porsche,Carrera
 2024,Porsche,9Yb
+2025,Acura,Integra
+2025,Acura,MDX
+2025,Acura,RDX
+2025,Acura,TLX
+2025,Alfa Romeo,Stelvio
+2025,Audi,A3
+2025,Audi,A4
+2025,Audi,A4 Allroad
+2025,Audi,A5
+2025,Audi,A6
+2025,Audi,A6 Allroad
+2025,Audi,A7
+2025,Audi,A8
+2025,Audi,Q3
+2025,Audi,Q4
+2025,Audi,Q5
+2025,Audi,Q7
+2025,Audi,Q8
+2025,Audi,R8
+2025,Audi,RS Q8
+2025,Audi,RS 3
+2025,Audi,RS 5
+2025,Audi,RS 7
+2025,Audi,S3
+2025,Audi,S4
+2025,Audi,S5
+2025,Audi,S6
+2025,Audi,S7
+2025,Audi,S8
+2025,Audi,SQ5
+2025,Audi,SQ7
+2025,Audi,SQ8
+2025,BMW,M8
+2025,BMW,X5
+2025,Buick,Enclave
+2025,Buick,Encore GX
+2025,Buick,Envista
+2025,Cadillac,CT4
+2025,Cadillac,CT5
+2025,Cadillac,Escalade
+2025,Cadillac,Escalade ESV
+2025,Cadillac,Lyriq
+2025,Cadillac,XT4
+2025,Cadillac,XT5
+2025,Cadillac,XT6
+2025,Chevrolet,Blazer
+2025,Chevrolet,Blazer EV
+2025,Chevrolet,Camaro
+2025,Chevrolet,Cavalier
+2025,Chevrolet,Colorado
+2025,Chevrolet,Corvette
+2025,Chevrolet,Equinox
+2025,Chevrolet,Express
+2025,Chevrolet,Malibu
+2025,Chevrolet,Onix
+2025,Chevrolet,Suburban
+2025,Chevrolet,Tahoe
+2025,Chevrolet,Tracker
+2025,Chevrolet,Trailblazer
+2025,Chevrolet,Trax
+2025,Chrysler,Pacifica
+2025,Chrysler,Voyager
+2025,Dodge,Durango
+2025,Dodge,Hornet
+2025,Ford,Edge
+2025,Ford,Escape
+2025,Ford,Expedition
+2025,Ford,Maverick
+2025,Ford,Mustang
+2025,Ford,Ranger
+2025,Ford,Transit
+2025,Genesis,G70
+2025,Genesis,G90
+2025,Genesis,GV60
+2025,Genesis,GV70
+2025,Genesis,GV80
+2025,Honda,Accord
+2025,Honda,Civic
+2025,Honda,Odyssey
+2025,Honda,Passport
+2025,Honda,Pilot
+2025,Honda,Ridgeline
+2025,Hyundai,Elantra N
+2025,Hyundai,Ioniq 5
+2025,Hyundai,Ioniq 6
+2025,Hyundai,Kona Electric
+2025,Hyundai,Nexo
+2025,Hyundai,Palisade
+2025,Hyundai,Santa Cruz
+2025,Hyundai,Sonata
+2025,Hyundai,Venue
+2025,Infiniti,Q50
+2025,Infiniti,QX50
+2025,Infiniti,QX55
+2025,Infiniti,QX60
+2025,Infiniti,QX80
+2025,Jaguar,XE
+2025,Jaguar,XF
+2025,Jeep,Compass
+2025,Jeep,Gladiator
+2025,Jeep,Grand Cherokee
+2025,Jeep,Wrangler
+2025,Kia,Carnival
+2025,Kia,Forte
+2025,Kia,K5
+2025,Kia,Niro
+2025,Kia,Seltos
+2025,Kia,Sorento
+2025,Kia,Sportage
+2025,Kia,Stinger
+2025,Kia,Telluride
+2025,Lexus,ES
+2025,Lexus,GS
+2025,Lexus,IS
+2025,Lexus,LS
+2025,Lexus,NX
+2025,Lexus,RX
+2025,Lexus,UX
+2025,Lincoln,Aviator
+2025,Lincoln,Corsair
+2025,Lincoln,Navigator
+2025,Mazda,CX-30
+2025,Mazda,CX-5
+2025,Mazda,CX-9
+2025,Mazda,Mazda3
+2025,Mazda,Mazda6
+2025,Mercedes-Benz,A-Class
+2025,Mercedes-Benz,C-Class
+2025,Mercedes-Benz,E-Class
+2025,Mercedes-Benz,GLA
+2025,Mercedes-Benz,GLB
+2025,Mercedes-Benz,GLC
+2025,Mercedes-Benz,GLE
+2025,Mercedes-Benz,GLS
+2025,Mercedes-Benz,S-Class
+2025,Mitsubishi,Eclipse Cross
+2025,Mitsubishi,Mirage
+2025,Mitsubishi,Outlander
+2025,Nissan,Altima
+2025,Nissan,Armada
+2025,Nissan,Frontier
+2025,Nissan,Kicks
+2025,Nissan,Leaf
+2025,Nissan,Maxima
+2025,Nissan,Murano
+2025,Nissan,Pathfinder
+2025,Nissan,Rogue
+2025,Nissan,Sentra
+2025,Nissan,Titan
+2025,Nissan,Versa
+2025,Porsche,911
+2025,Porsche,Cayenne
+2025,Porsche,Macan
+2025,Porsche,Panamera
+2025,Porsche,Taycan
+2025,Ram,1500
+2025,Ram,2500
+2025,Ram,3500
+2025,Subaru,Ascent
+2025,Subaru,Crosstrek
+2025,Subaru,Forester
+2025,Subaru,Impreza
+2025,Subaru,Legacy
+2025,Subaru,Outback
+2025,Subaru,WRX
+2025,Tesla,Model 3
+2025,Tesla,Model S
+2025,Tesla,Model X
+2025,Tesla,Model Y
+2025,Toyota,4Runner
+2025,Toyota,Avalon
+2025,Toyota,Camry
+2025,Toyota,Corolla
+2025,Toyota,Highlander
+2025,Toyota,Prius
+2025,Toyota,RAV4
+2025,Toyota,Sequoia
+2025,Toyota,Sienna
+2025,Toyota,Tacoma
+2025,Toyota,Tundra
+2025,Toyota,Venza
+2025,Volkswagen,Atlas
+2025,Volkswagen,Golf
+2025,Volkswagen,Jetta
+2025,Volkswagen,Passat
+2025,Volkswagen,Tiguan
+2025,Volvo,S60
+2025,Volvo,S90
+2025,Volvo,XC40
+2025,Volvo,XC60
+2025,Volvo,XC90
+2026,Acura,Integra
+2026,Acura,MDX
+2026,Acura,RDX
+2026,Acura,TLX
+2026,Alfa Romeo,Stelvio
+2026,Audi,A3
+2026,Audi,A4
+2026,Audi,A4 Allroad
+2026,Audi,A5
+2026,Audi,A6
+2026,Audi,A6 Allroad
+2026,Audi,A7
+2026,Audi,A8
+2026,Audi,Q3
+2026,Audi,Q4
+2026,Audi,Q5
+2026,Audi,Q7
+2026,Audi,Q8
+2026,Audi,R8
+2026,Audi,RS Q8
+2026,Audi,RS 3
+2026,Audi,RS 5
+2026,Audi,RS 7
+2026,Audi,S3
+2026,Audi,S4
+2026,Audi,S5
+2026,Audi,S6
+2026,Audi,S7
+2026,Audi,S8
+2026,Audi,SQ5
+2026,Audi,SQ7
+2026,Audi,SQ8
+2026,BMW,M8
+2026,BMW,X5
+2026,Buick,Enclave
+2026,Buick,Encore GX
+2026,Buick,Envista
+2026,Cadillac,CT4
+2026,Cadillac,CT5
+2026,Cadillac,Escalade
+2026,Cadillac,Escalade ESV
+2026,Cadillac,Lyriq
+2026,Cadillac,XT4
+2026,Cadillac,XT5
+2026,Cadillac,XT6
+2026,Chevrolet,Blazer
+2026,Chevrolet,Blazer EV
+2026,Chevrolet,Camaro
+2026,Chevrolet,Cavalier
+2026,Chevrolet,Colorado
+2026,Chevrolet,Corvette
+2026,Chevrolet,Equinox
+2026,Chevrolet,Express
+2026,Chevrolet,Malibu
+2026,Chevrolet,Onix
+2026,Chevrolet,Suburban
+2026,Chevrolet,Tahoe
+2026,Chevrolet,Tracker
+2026,Chevrolet,Trailblazer
+2026,Chevrolet,Trax
+2026,Chrysler,Pacifica
+2026,Chrysler,Voyager
+2026,Dodge,Durango
+2026,Dodge,Hornet
+2026,Ford,Edge
+2026,Ford,Escape
+2026,Ford,Expedition
+2026,Ford,Maverick
+2026,Ford,Mustang
+2026,Ford,Ranger
+2026,Ford,Transit
+2026,Genesis,G70
+2026,Genesis,G90
+2026,Genesis,GV60
+2026,Genesis,GV70
+2026,Genesis,GV80
+2026,Honda,Accord
+2026,Honda,Civic
+2026,Honda,Odyssey
+2026,Honda,Passport
+2026,Honda,Pilot
+2026,Honda,Ridgeline
+2026,Hyundai,Elantra N
+2026,Hyundai,Ioniq 5
+2026,Hyundai,Ioniq 6
+2026,Hyundai,Kona Electric
+2026,Hyundai,Nexo
+2026,Hyundai,Palisade
+2026,Hyundai,Santa Cruz
+2026,Hyundai,Sonata
+2026,Hyundai,Venue
+2026,Infiniti,Q50
+2026,Infiniti,QX50
+2026,Infiniti,QX55
+2026,Infiniti,QX60
+2026,Infiniti,QX80
+2026,Jaguar,XE
+2026,Jaguar,XF
+2026,Jeep,Compass
+2026,Jeep,Gladiator
+2026,Jeep,Grand Cherokee
+2026,Jeep,Wrangler
+2026,Kia,Carnival
+2026,Kia,Forte
+2026,Kia,K5
+2026,Kia,Niro
+2026,Kia,Seltos
+2026,Kia,Sorento
+2026,Kia,Sportage
+2026,Kia,Stinger
+2026,Kia,Telluride
+2026,Lexus,ES
+2026,Lexus,GS
+2026,Lexus,IS
+2026,Lexus,LS
+2026,Lexus,NX
+2026,Lexus,RX
+2026,Lexus,UX
+2026,Lincoln,Aviator
+2026,Lincoln,Corsair
+2026,Lincoln,Navigator
+2026,Mazda,CX-30
+2026,Mazda,CX-5
+2026,Mazda,CX-9
+2026,Mazda,Mazda3
+2026,Mazda,Mazda6
+2026,Mercedes-Benz,A-Class
+2026,Mercedes-Benz,C-Class
+2026,Mercedes-Benz,E-Class
+2026,Mercedes-Benz,GLA
+2026,Mercedes-Benz,GLB
+2026,Mercedes-Benz,GLC
+2026,Mercedes-Benz,GLE
+2026,Mercedes-Benz,GLS
+2026,Mercedes-Benz,S-Class
+2026,Mitsubishi,Eclipse Cross
+2026,Mitsubishi,Mirage
+2026,Mitsubishi,Outlander
+2026,Nissan,Altima
+2026,Nissan,Armada
+2026,Nissan,Frontier
+2026,Nissan,Kicks
+2026,Nissan,Leaf
+2026,Nissan,Maxima
+2026,Nissan,Murano
+2026,Nissan,Pathfinder
+2026,Nissan,Rogue
+2026,Nissan,Sentra
+2026,Nissan,Titan
+2026,Nissan,Versa
+2026,Porsche,911
+2026,Porsche,Cayenne
+2026,Porsche,Macan
+2026,Porsche,Panamera
+2026,Porsche,Taycan
+2026,Ram,1500
+2026,Ram,2500
+2026,Ram,3500
+2026,Subaru,Ascent
+2026,Subaru,Crosstrek
+2026,Subaru,Forester
+2026,Subaru,Impreza
+2026,Subaru,Legacy
+2026,Subaru,Outback
+2026,Subaru,WRX
+2026,Tesla,Model 3
+2026,Tesla,Model S
+2026,Tesla,Model X
+2026,Tesla,Model Y
+2026,Toyota,4Runner
+2026,Toyota,Avalon
+2026,Toyota,Camry
+2026,Toyota,Corolla
+2026,Toyota,Highlander
+2026,Toyota,Prius
+2026,Toyota,RAV4
+2026,Toyota,Sequoia
+2026,Toyota,Sienna
+2026,Toyota,Tacoma
+2026,Toyota,Tundra
+2026,Toyota,Venza
+2026,Volkswagen,Atlas
+2026,Volkswagen,Golf
+2026,Volkswagen,Jetta
+2026,Volkswagen,Passat
+2026,Volkswagen,Tiguan
+2026,Volvo,S60
+2026,Volvo,S90
+2026,Volvo,XC40
+2026,Volvo,XC60
+2026,Volvo,XC90

@@ -512,8 +512,9 @@ class DashboardWidget(QWidget):
             title_section = QVBoxLayout()
             title_section.setSpacing(self.is_compact and 2 or 4)
             
-            # Adjust title style based on view mode
-            title = QLabel(f"{opportunity.display_title}")
+            # Vehicle information as main title
+            vehicle_title = opportunity.display_title
+            title = QLabel(vehicle_title)
             title.setStyleSheet(f"""
                 color: #ffffff;
                 font-size: {14 if self.is_compact else 18}px;
@@ -521,10 +522,30 @@ class DashboardWidget(QWidget):
             """)
             title_section.addWidget(title)
             
+            # Show ADAS systems prominently under the title
+            if opportunity.systems:
+                systems_preview = []
+                for system_data in opportunity.systems:
+                    system_code = system_data.get('system', '')
+                    systems_preview.append(system_code)
+                
+                systems_text = f"🔧 Systems: {', '.join(systems_preview[:3])}"
+                if len(systems_preview) > 3:
+                    systems_text += f" (+{len(systems_preview) - 3} more)"
+                
+                systems_label = QLabel(systems_text)
+                systems_label.setStyleSheet(f"""
+                    color: #0078d4;
+                    font-size: {12 if self.is_compact else 14}px;
+                    font-weight: bold;
+                    margin-top: 4px;
+                """)
+                title_section.addWidget(systems_label)
+            
             # Compact mode: combine ticket and submitter info
             if self.is_compact:
                 # First line: Ticket ID and creator info
-                info_text = f"{opportunity.title} • {opportunity.creator.first_name} {opportunity.creator.last_name}"
+                info_text = f"🎫 {opportunity.title} • {opportunity.creator.first_name} {opportunity.creator.last_name}"
                 if opportunity.creator.team:
                     info_text += f" ({opportunity.creator.team})"
                 info = QLabel(info_text)
@@ -734,8 +755,8 @@ class DashboardWidget(QWidget):
                 info_row.setSpacing(16)
                 
                 # First row: Ticket ID and creator info
-                ticket = QLabel(opportunity.title)
-                ticket.setStyleSheet("color: #999999; font-size: 13px;")
+                ticket = QLabel(f"🎫 {opportunity.title}")
+                ticket.setStyleSheet("color: #0078d4; font-size: 13px; font-weight: bold;")
                 info_row.addWidget(ticket)
                 
                 submitter = QLabel(f"by {opportunity.creator.first_name} {opportunity.creator.last_name}")

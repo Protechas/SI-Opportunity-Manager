@@ -1,0 +1,4933 @@
+[
+  {
+    "id": "32396e4e-cf1c-4c46-bdf2-98b85c250a91",
+    "title": "SI-2025-00060",
+    "description": "Vehicle: 2025 Mazda CX-30\n\n2025 Mazda CX-90 APA and BSW SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "APA",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Sent files in teams",
+        "user_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+        "user_name": "Kelsie Ivey"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+    "created_at": "2025-05-02T15:20:39.513890+00:00",
+    "updated_at": "2025-05-02T14:49:50.175949+00:00",
+    "completed_at": "2025-05-02T14:49:50.175949+00:00",
+    "started_at": "2025-05-02T14:24:59.127368+00:00",
+    "response_time": "-1 day, 23:29:10.662059",
+    "work_time": "0:24:51.048581"
+  },
+  {
+    "id": "4eac747e-657a-429c-8b84-3a6de966a1fa",
+    "title": "SI-2025-00100",
+    "description": "Vehicle: 2025 Ford Escape\n\n2025 Ford Escape LKA SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "LKA 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "done",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-05-31T18:05:28.556480+00:00",
+    "updated_at": "2025-06-02T08:08:48.213203+00:00",
+    "completed_at": "2025-06-02T08:08:48.213203+00:00",
+    "started_at": "2025-06-02T07:23:17.489960+00:00",
+    "response_time": "1 day, 14:03:19.656723",
+    "work_time": "0:45:30.723243"
+  },
+  {
+    "id": "e4f69790-3179-4f59-8d6e-4d2011fc81ae",
+    "title": "SI-2025-00017",
+    "description": "Vehicle: 2025 BMW X5\n\n2025 VW Atlas Cross LKA SI",
+    "status": "Needs Info",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "LKA 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": ".",
+        "user_id": "79cfea77-20a4-4e2f-8fa3-f0c851960e5e",
+        "user_name": "michael johnson"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "79cfea77-20a4-4e2f-8fa3-f0c851960e5e",
+    "created_at": "2025-04-04T22:19:12.733245+00:00",
+    "updated_at": "2025-04-30T13:36:55.265420+00:00",
+    "completed_at": "2025-04-04T19:10:09.478085+00:00",
+    "started_at": "2025-04-04T19:01:16.992258+00:00",
+    "response_time": "-1 day, 20:50:56.744840",
+    "work_time": "0:08:52.485827"
+  },
+  {
+    "id": "a7cd2ee8-92f1-4146-88a0-f6489f16f55c",
+    "title": "SI-2025-00015",
+    "description": "Vehicle: 2025 lexus RX350\n\nNeeding Si for AHL SVC and APA for 25 Lexus RX350",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "i got the SVC and APA just need AHL and Front blindspot",
+        "user_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+        "timestamp": "2025-04-04T20:41:04.959567+00:00",
+        "user_name": "Jalen Roberts"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "79cfea77-20a4-4e2f-8fa3-f0c851960e5e",
+    "created_at": "2025-04-04T20:13:26.276433+00:00",
+    "updated_at": "2025-04-04T16:40:10.268221+00:00",
+    "completed_at": "2025-04-04T16:40:10.268221+00:00",
+    "started_at": "2025-04-04T16:19:38.027367+00:00",
+    "response_time": "-1 day, 20:26:43.991788",
+    "work_time": "0:20:32.240854"
+  },
+  {
+    "id": "2c48bcb7-f098-460f-bf84-5cd5d0716b74",
+    "title": "SI-2025-00025",
+    "description": "Vehicle: 2017 Toyota Prius\n\n2017 Prius Rear Bumper R&I SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BSW-RCTW 1",
+        "affected_portions": [
+          "R&I"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": ".",
+        "user_id": "79cfea77-20a4-4e2f-8fa3-f0c851960e5e",
+        "user_name": "michael johnson"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "79cfea77-20a4-4e2f-8fa3-f0c851960e5e",
+    "created_at": "2025-04-11T17:19:42.429485+00:00",
+    "updated_at": "2025-04-11T15:57:25.835977+00:00",
+    "completed_at": "2025-04-11T15:57:25.835977+00:00",
+    "started_at": "2025-04-11T15:53:54.571854+00:00",
+    "response_time": "-1 day, 22:37:43.406492",
+    "work_time": "0:03:31.264123"
+  },
+  {
+    "id": "46ddfdc7-0ceb-425b-a9ec-c12cd6cd6d02",
+    "title": "SI-2025-00011",
+    "description": "Vehicle: 2024 Nissan Frontier\n\nThe R&I process is not for the BSW system as it refernces Pulling \"front fog lamp rearward out of front bumper.\" within the removal process in this document. ",
+    "status": "Completed",
+    "year": "2024",
+    "make": "Nissan",
+    "model": "Frontier",
+    "systems": [
+      {
+        "system": "BSW-RCTW 1",
+        "affected_portions": [
+          "R&I"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": null,
+    "created_at": "2025-04-04T02:15:38.262485+00:00",
+    "updated_at": null,
+    "completed_at": null,
+    "started_at": null,
+    "response_time": null,
+    "work_time": null
+  },
+  {
+    "id": "053e4de4-4087-4dbe-a6d4-51ddaa42b121",
+    "title": "SI-2025-00022",
+    "description": "Vehicle: 2024 BMW X3\n\nNeeding Blindspot Si for 2024 BMW X3",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BSW-RCTW 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "waiting on vin",
+        "user_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+        "user_name": "rai cardoso"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+    "created_at": "2025-04-09T15:56:15.821412+00:00",
+    "updated_at": "2025-04-15T08:48:52.144383+00:00",
+    "completed_at": "2025-04-15T08:48:52.144383+00:00",
+    "started_at": "2025-04-10T11:04:55.602569+00:00",
+    "response_time": "5 days, 16:52:36.322971",
+    "work_time": "4 days, 21:43:56.541814"
+  },
+  {
+    "id": "79b6c082-7e3b-4ab4-9343-9c1a12721bb7",
+    "title": "SI-2025-00002",
+    "description": "please also look for headiner SI in part of the LKA calibration ",
+    "status": "Completed",
+    "year": "2025",
+    "make": "BMW",
+    "model": "X5",
+    "systems": [
+      {
+        "system": "LKA 1",
+        "affected_portions": [
+          "R&I",
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Sent in Teams",
+        "user_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+        "user_name": "Kelsie Ivey"
+      }
+    ],
+    "creator_id": "5e73921a-d366-404e-94af-405b0b08e0b9",
+    "acceptor_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+    "created_at": "2025-03-31T19:31:49.051903+00:00",
+    "updated_at": "2025-04-02T09:53:05.182636+00:00",
+    "completed_at": "2025-04-02T09:53:05.182636+00:00",
+    "started_at": "2025-03-31T14:24:34.784846+00:00",
+    "response_time": "1 day, 14:21:16.130733",
+    "work_time": "1 day, 19:28:30.397790"
+  },
+  {
+    "id": "4875ce90-fbe1-46d6-bf0b-e9745a166ddd",
+    "title": "SI-2025-00001",
+    "description": "Good morning, beautiful people. Could someone help me get blind spot si for a 2013 mazda cx 9 please",
+    "status": "Completed",
+    "year": "2013",
+    "make": "Mazda",
+    "model": "CX-9",
+    "systems": [
+      {
+        "system": "BSW-RCTW 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "1dd235ed-e461-4c24-8be1-9410347b4932",
+    "created_at": "2025-03-31T17:16:42.948294+00:00",
+    "updated_at": "2025-04-01T13:29:16.296031+00:00",
+    "completed_at": "2025-04-01T13:29:16.296031+00:00",
+    "started_at": "2025-03-31T16:03:25.287536+00:00",
+    "response_time": "20:12:33.347737",
+    "work_time": "21:25:51.008495"
+  },
+  {
+    "id": "b920d5a6-759e-40f9-a98a-76871a001638",
+    "title": "SI-2025-00003",
+    "description": "test\n",
+    "status": "Completed",
+    "year": "2024",
+    "make": "Acura",
+    "model": "Integra",
+    "systems": [
+      {
+        "system": "NV",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "test worked thanks mike",
+        "user_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+        "user_name": "rai cardoso"
+      }
+    ],
+    "creator_id": "5e73921a-d366-404e-94af-405b0b08e0b9",
+    "acceptor_id": null,
+    "created_at": "2025-04-01T18:28:14.510944+00:00",
+    "updated_at": "2025-04-01T14:25:51.166848+00:00",
+    "completed_at": "2025-04-01T14:25:51.166848+00:00",
+    "started_at": null,
+    "response_time": null,
+    "work_time": null
+  },
+  {
+    "id": "a1c534fc-6a83-44dc-873c-a908dab2b759",
+    "title": "SI-2025-00007",
+    "description": "Vehicle: 2025 Toyota Corolla\n\nNeeding BSM and SVC SI for 2025 Toyota Tacoma.",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Sent in chat",
+        "user_id": "20b41d41-7ff3-4848-8b93-40c1e541e0f3",
+        "user_name": "Jacob Lally"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "20b41d41-7ff3-4848-8b93-40c1e541e0f3",
+    "created_at": "2025-04-03T17:16:32.463914+00:00",
+    "updated_at": "2025-04-03T10:30:12.873434+00:00",
+    "completed_at": "2025-04-03T10:30:12.873434+00:00",
+    "started_at": "2025-04-03T10:19:10.813988+00:00",
+    "response_time": "-1 day, 17:13:40.409520",
+    "work_time": "0:11:02.059446"
+  },
+  {
+    "id": "aa9df571-779c-4f79-9227-404a9e64bc62",
+    "title": "SI-2025-00005",
+    "description": "Vehicle: 2025 Toyota Corolla\n\nas quckily as we can  please. . this is a 2025 Toyota Corolla",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BSW-RCTW 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Sent in chat",
+        "user_id": "20b41d41-7ff3-4848-8b93-40c1e541e0f3",
+        "user_name": "Jacob Lally"
+      }
+    ],
+    "creator_id": "5e73921a-d366-404e-94af-405b0b08e0b9",
+    "acceptor_id": "20b41d41-7ff3-4848-8b93-40c1e541e0f3",
+    "created_at": "2025-04-02T18:32:24.151667+00:00",
+    "updated_at": "2025-04-02T11:31:27.969531+00:00",
+    "completed_at": "2025-04-02T11:31:27.969531+00:00",
+    "started_at": "2025-04-02T11:26:34.379673+00:00",
+    "response_time": "-1 day, 16:59:03.817864",
+    "work_time": "0:04:53.589858"
+  },
+  {
+    "id": "b6d16e08-2626-4ce3-b4d6-9a1c5d4acbc8",
+    "title": "SI-2025-00005",
+    "description": "Tech in search of documentation that states Honda does not allow for airbag component wire splicing or repair of any kind",
+    "status": "Completed",
+    "year": "2012",
+    "make": "Honda",
+    "model": "Civic",
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Justification"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Sent in chat",
+        "user_id": "20b41d41-7ff3-4848-8b93-40c1e541e0f3",
+        "user_name": "Jacob Lally"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "20b41d41-7ff3-4848-8b93-40c1e541e0f3",
+    "created_at": "2025-04-02T18:26:16.401994+00:00",
+    "updated_at": "2025-04-02T16:04:11.338616+00:00",
+    "completed_at": "2025-04-02T16:04:11.338616+00:00",
+    "started_at": "2025-04-02T11:33:28.401966+00:00",
+    "response_time": "-1 day, 21:37:54.936622",
+    "work_time": "4:30:42.936650"
+  },
+  {
+    "id": "7febf9ac-60a1-435d-be69-560c8a9df2a9",
+    "title": "SI-2025-00006",
+    "description": "Vehicle: 2025 Land Rover range Rover\n\nVin SAL1P9EU9SA447299",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Full Document Missing"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Sub expired cant login",
+        "user_id": "20b41d41-7ff3-4848-8b93-40c1e541e0f3",
+        "user_name": "Jacob Lally"
+      }
+    ],
+    "creator_id": "5e73921a-d366-404e-94af-405b0b08e0b9",
+    "acceptor_id": "20b41d41-7ff3-4848-8b93-40c1e541e0f3",
+    "created_at": "2025-04-03T14:31:39.397001+00:00",
+    "updated_at": "2025-04-03T08:46:18.980468+00:00",
+    "completed_at": "2025-04-03T08:46:18.980468+00:00",
+    "started_at": "2025-04-03T08:40:10.386260+00:00",
+    "response_time": "-1 day, 18:14:39.583467",
+    "work_time": "0:06:08.594208"
+  },
+  {
+    "id": "065d8593-f9a3-427a-897d-e5f13dbb5248",
+    "title": "SI-2025-00008",
+    "description": "Vehicle: 2025 Genesis GV70\n\nNeeding Blindspot Si for 25 GV70",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BSW-RCTW 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Sent in chat",
+        "user_id": "20b41d41-7ff3-4848-8b93-40c1e541e0f3",
+        "user_name": "Jacob Lally"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "20b41d41-7ff3-4848-8b93-40c1e541e0f3",
+    "created_at": "2025-04-03T21:16:16.882072+00:00",
+    "updated_at": "2025-04-03T14:25:39.982085+00:00",
+    "completed_at": "2025-04-03T14:25:39.982085+00:00",
+    "started_at": "2025-04-03T14:21:52.914038+00:00",
+    "response_time": "-1 day, 17:09:23.100013",
+    "work_time": "0:03:47.068047"
+  },
+  {
+    "id": "fc867257-fcb3-469a-bad9-085e24ceb9de",
+    "title": "SI-2025-00009",
+    "description": "Vehicle: 2025 chevy traverse\n\nLKA SI for 2025 travese",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "LKA 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Sent in chat",
+        "user_id": "20b41d41-7ff3-4848-8b93-40c1e541e0f3",
+        "user_name": "Jacob Lally"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "20b41d41-7ff3-4848-8b93-40c1e541e0f3",
+    "created_at": "2025-04-03T21:24:29.451643+00:00",
+    "updated_at": "2025-04-03T14:39:28.555495+00:00",
+    "completed_at": "2025-04-03T14:39:28.555495+00:00",
+    "started_at": "2025-04-03T14:34:19.978952+00:00",
+    "response_time": "-1 day, 17:14:59.103852",
+    "work_time": "0:05:08.576543"
+  },
+  {
+    "id": "01c9f71e-2b5b-4b14-811a-d1ef259ced7d",
+    "title": "SI-2025-00101",
+    "description": "Vehicle: 2025 Audi A3\n\nThis request is actually for the 2025 Acura ADX SI.  Unfortunately Acura/Honda was not an option.  Please and thank you!",
+    "status": "new",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Full Document Missing"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [],
+    "creator_id": "93845a6d-4268-4c32-bbca-94b87aeb94a7",
+    "acceptor_id": null,
+    "created_at": "2025-06-03T03:06:55.723538+00:00",
+    "updated_at": null,
+    "completed_at": null,
+    "started_at": null,
+    "response_time": null,
+    "work_time": null
+  },
+  {
+    "id": "9831a9f3-b21d-4140-8b38-cd857ec72e2b",
+    "title": "SI-2025-00021",
+    "description": "Vehicle: 2025 Lexus NX250\n\nplease and thank you ",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BSW-RCTW 1",
+        "affected_portions": [
+          "R&I",
+          "Calibration Procedure",
+          "Justification"
+        ]
+      },
+      {
+        "system": "APA 1",
+        "affected_portions": [
+          "R&I",
+          "Calibration Procedure",
+          "Justification"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "completed, inserted in information research chat",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "5e73921a-d366-404e-94af-405b0b08e0b9",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-04-08T20:27:53.025207+00:00",
+    "updated_at": "2025-04-08T15:54:28.609386+00:00",
+    "completed_at": "2025-04-08T15:54:28.609386+00:00",
+    "started_at": "2025-04-08T15:37:08.361775+00:00",
+    "response_time": "-1 day, 19:26:35.584179",
+    "work_time": "0:17:20.247611"
+  },
+  {
+    "id": "00693c78-67d3-4943-807e-f64288944db8",
+    "title": "SI-2025-00018",
+    "description": "Vehicle: 2023 BMW XM\n\nNeeding SVC SI for 23 BMW XM",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "svc done",
+        "user_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+        "user_name": "rai cardoso"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+    "created_at": "2025-04-07T19:08:35.088878+00:00",
+    "updated_at": "2025-04-08T17:03:32.811679+00:00",
+    "completed_at": "2025-04-08T17:03:32.811679+00:00",
+    "started_at": "2025-04-08T16:36:35.919291+00:00",
+    "response_time": "21:54:57.722801",
+    "work_time": "0:26:56.892388"
+  },
+  {
+    "id": "9b6ca4b7-08c4-4d95-94a3-ab85483bd314",
+    "title": "SI-2025-00033",
+    "description": "Vehicle: 2025 Toyota Rav4\n\nZero Point Calibration Si for 2025 Toyota Rav4",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "sent in chat",
+        "user_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+        "user_name": "rai cardoso"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+    "created_at": "2025-04-16T23:18:29.602528+00:00",
+    "updated_at": "2025-04-16T18:29:47.967166+00:00",
+    "completed_at": "2025-04-16T18:29:47.967166+00:00",
+    "started_at": "2025-04-16T18:17:28.491189+00:00",
+    "response_time": "-1 day, 19:11:18.364638",
+    "work_time": "0:12:19.475977"
+  },
+  {
+    "id": "04e841b4-8938-4466-94cd-25fc4cbb46ae",
+    "title": "SI-2025-00032",
+    "description": "Vehicle: 2023 BMW X1\nVIN: WBX73EF09P5V96493\n\n2023 BMW X1 BUC SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BUC",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "done by desi",
+        "user_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+        "user_name": "rai cardoso"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "9facb941-a051-4648-b91f-16cfa5495bdd",
+    "created_at": "2025-04-16T15:36:54.331422+00:00",
+    "updated_at": "2025-04-17T08:15:50.873060+00:00",
+    "completed_at": "2025-04-17T08:15:50.873060+00:00",
+    "started_at": "2025-04-16T21:13:26.435161+00:00",
+    "response_time": "16:38:56.541638",
+    "work_time": "11:02:24.437899"
+  },
+  {
+    "id": "031c5f97-46fb-41f1-b28c-d9c289114c3e",
+    "title": "SI-2025-00023",
+    "description": "Vehicle: 2025 Audi Q7\n\n2025 Audi Q7 BSM SI ",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BSW-RCTW 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "not needed",
+        "user_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+        "user_name": "rai cardoso"
+      },
+      {
+        "text": "per jalen",
+        "user_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+        "timestamp": "2025-04-10T16:48:47.528053+00:00",
+        "user_name": "rai cardoso"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+    "created_at": "2025-04-10T16:18:35.019289+00:00",
+    "updated_at": "2025-04-10T11:53:40.269731+00:00",
+    "completed_at": "2025-04-10T11:53:40.269731+00:00",
+    "started_at": "2025-04-10T11:52:47.076775+00:00",
+    "response_time": "-1 day, 19:35:05.250442",
+    "work_time": "0:00:53.192956"
+  },
+  {
+    "id": "b69d142a-dc98-40ee-85a0-eca84b12360e",
+    "title": "SI-2025-00010",
+    "description": "Vehicle: 2024 Toyota Prius\n\nDoc ID: RM1000000028VRS is missing from this SI all other exsisting documents can stay this will be the only one that needs to be added.",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "APA",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "cant see details on my screen",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "5fe63973-259d-475b-994c-efcde1ab04bb",
+    "acceptor_id": null,
+    "created_at": "2025-04-03T23:41:50.614707+00:00",
+    "updated_at": "2025-04-18T11:00:58.888962+00:00",
+    "completed_at": "2025-04-18T11:00:58.888962+00:00",
+    "started_at": "2025-04-03T17:49:18.647693+00:00",
+    "response_time": "14 days, 11:19:08.274255",
+    "work_time": "14 days, 17:11:40.241269"
+  },
+  {
+    "id": "bed66c40-1e98-4b75-8185-a4e9c7764c6a",
+    "title": "SI-2025-00013",
+    "description": "Vehicle: 2023 Nissan Maxima\n\nmissing \"work procedure\" for BSW - the path is in the screenshot provided",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BSW-RCTW 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Added the work procedure, precaution and the Description to the file. Also highlighted what needed to be highlighted.",
+        "user_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+        "timestamp": "2025-04-10T18:35:57.547422+00:00",
+        "user_name": "Kelsie Ivey"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+    "created_at": "2025-04-04T04:46:12.073452+00:00",
+    "updated_at": "2025-04-10T13:36:27.415166+00:00",
+    "completed_at": "2025-04-10T13:36:27.415166+00:00",
+    "started_at": "2025-04-10T13:26:53.284122+00:00",
+    "response_time": "6 days, 8:50:15.341714",
+    "work_time": "0:09:34.131044"
+  },
+  {
+    "id": "52316f97-a857-43de-81ac-eb8e206c04a4",
+    "title": "SI-2025-00024",
+    "description": "Vehicle: 2025 Lexus IS300\n\nNeeding 2025 Lexus IS300 ACC and APA SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      },
+      {
+        "system": "APA",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "wasn't clocked in when this was assigned to me",
+        "user_id": "79cfea77-20a4-4e2f-8fa3-f0c851960e5e",
+        "user_name": "michael johnson"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "79cfea77-20a4-4e2f-8fa3-f0c851960e5e",
+    "created_at": "2025-04-10T20:37:54.395037+00:00",
+    "updated_at": "2025-04-11T11:41:30.723272+00:00",
+    "completed_at": "2025-04-11T11:41:30.723272+00:00",
+    "started_at": "2025-04-11T11:15:15.433117+00:00",
+    "response_time": "15:03:36.328235",
+    "work_time": "0:26:15.290155"
+  },
+  {
+    "id": "d51fdec5-3969-4e28-9120-2be8fe50ee61",
+    "title": "SI-2025-00020",
+    "description": "Vehicle: 2022 Land Rover Velar\n\nVin SALYJ2EX2NA340214 \n\nCan i please get the front bumper or anyting that would helps jsutification, i looked already but appreantly im not great at JLR and i also didnt find anythign ?",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Justification"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "logins still not working",
+        "user_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+        "user_name": "rai cardoso"
+      }
+    ],
+    "creator_id": "5e73921a-d366-404e-94af-405b0b08e0b9",
+    "acceptor_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+    "created_at": "2025-04-08T16:46:53.288561+00:00",
+    "updated_at": "2025-04-15T08:49:15.185082+00:00",
+    "completed_at": "2025-04-15T08:49:15.185082+00:00",
+    "started_at": "2025-04-08T16:31:17.737396+00:00",
+    "response_time": "6 days, 16:02:21.896521",
+    "work_time": "6 days, 16:17:57.447686"
+  },
+  {
+    "id": "cc6f089c-004f-4121-81f9-c046175040f7",
+    "title": "SI-2025-00035",
+    "description": "Vehicle: 2025 Volks Wagen Jetta\n\n2025 Jetta LKA SI ",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "LKA 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": ".",
+        "user_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+        "user_name": "rai cardoso"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+    "created_at": "2025-04-18T23:09:58.804754+00:00",
+    "updated_at": "2025-04-21T15:33:24.525979+00:00",
+    "completed_at": "2025-04-21T15:33:24.525979+00:00",
+    "started_at": "2025-04-21T15:15:45.866231+00:00",
+    "response_time": "2 days, 16:23:25.721225",
+    "work_time": "0:17:38.659748"
+  },
+  {
+    "id": "bd515b0d-917a-4807-831a-d22607319995",
+    "title": "SI-2025-00041",
+    "description": "Vehicle: 2017 Lexus NX300H\n\nThe AEB document for the 2017 Lexus NX 300 is missing the R&I and the calibration proecdure. It has the information for the LKA but the systems do not work together. ",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "R&I",
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "posted on info res chat",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "ba496dc4-568e-40ce-899f-c5f9a3451405",
+    "acceptor_id": null,
+    "created_at": "2025-04-24T14:24:46.032334+00:00",
+    "updated_at": "2025-04-30T11:36:03.438307+00:00",
+    "completed_at": "2025-04-30T11:36:03.438307+00:00",
+    "started_at": null,
+    "response_time": null,
+    "work_time": null
+  },
+  {
+    "id": "e7adce17-0c90-447f-948d-4b707b3f2f11",
+    "title": "SI-2025-00037",
+    "description": "Vehicle: 2025 BMW 330i\nVIN: 3MW69CW03S8F21938\n\n2025 BMW 330i SVC SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "SVC",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "bmw 330i SVC sent in chat",
+        "user_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+        "user_name": "rai cardoso"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+    "created_at": "2025-04-23T16:08:43.746220+00:00",
+    "updated_at": "2025-04-23T11:44:01.957016+00:00",
+    "completed_at": "2025-04-23T11:44:01.957016+00:00",
+    "started_at": "2025-04-23T11:17:33.177286+00:00",
+    "response_time": "-1 day, 19:35:18.210796",
+    "work_time": "0:26:28.779730"
+  },
+  {
+    "id": "33322bc6-ac42-47e2-9e5d-3fbb559e33e7",
+    "title": "SI-2025-00038",
+    "description": "Vehicle: 2025 Mini Countryman\n\n25 mini cooper countryman ACC, APA, LKA and Blind spot Si ",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "mini cooper acc lka bsw apa sent in chat",
+        "user_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+        "user_name": "rai cardoso"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+    "created_at": "2025-04-23T22:34:56.304494+00:00",
+    "updated_at": "2025-04-23T18:59:51.980547+00:00",
+    "completed_at": "2025-04-23T18:59:51.980547+00:00",
+    "started_at": "2025-04-23T17:33:25.800329+00:00",
+    "response_time": "-1 day, 20:24:55.676053",
+    "work_time": "1:26:26.180218"
+  },
+  {
+    "id": "b057485c-5c5e-4776-bd3f-bbd3f67105e1",
+    "title": "SI-2025-00097",
+    "description": "Vehicle: 2018 Lincoln MKX\n\nthe SVC si is duplicated",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "SVC",
+        "affected_portions": [
+          "Naming Issue"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "folder fixed",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": null,
+    "created_at": "2025-05-29T00:58:09.455346+00:00",
+    "updated_at": "2025-05-29T07:44:58.798611+00:00",
+    "completed_at": "2025-05-29T07:44:58.798611+00:00",
+    "started_at": null,
+    "response_time": null,
+    "work_time": null
+  },
+  {
+    "id": "59eff2de-df99-4ce7-8fb6-67b4a0701a79",
+    "title": "SI-2025-00031",
+    "description": "Vehicle: 2025 Chevy Tahoe\n\n2025 Chevy tahoe SAS SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": ".",
+        "user_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+        "user_name": "rai cardoso"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+    "created_at": "2025-04-15T18:03:48.882436+00:00",
+    "updated_at": "2025-04-16T13:15:48.994019+00:00",
+    "completed_at": "2025-04-16T13:15:48.994019+00:00",
+    "started_at": "2025-04-16T12:47:00.556625+00:00",
+    "response_time": "19:12:00.111583",
+    "work_time": "0:28:48.437394"
+  },
+  {
+    "id": "f64f0c66-1267-43c4-bc13-2b4923b9b775",
+    "title": "SI-2025-00027",
+    "description": "Vehicle: 2025 Toyota Crown\n\n2025 Toyota Crown LKA and SVC SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "LKA 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Sent in chat",
+        "user_id": "20b41d41-7ff3-4848-8b93-40c1e541e0f3",
+        "user_name": "Jacob Lally"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "20b41d41-7ff3-4848-8b93-40c1e541e0f3",
+    "created_at": "2025-04-14T17:15:44.415913+00:00",
+    "updated_at": "2025-04-14T11:33:58.114214+00:00",
+    "completed_at": "2025-04-14T11:33:58.114214+00:00",
+    "started_at": "2025-04-14T11:03:54.145102+00:00",
+    "response_time": "-1 day, 18:18:13.698301",
+    "work_time": "0:30:03.969112"
+  },
+  {
+    "id": "80a68415-de7d-4c92-8c03-46ecf46ce7a6",
+    "title": "SI-2025-00026",
+    "description": "Vehicle: 2025 Mazda CX-50\n\n2025 Mazda CX50 BSW- ACC- SAS- LKA- BUC- and Battery Disconnect SI ",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Sent all documents in teams",
+        "user_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+        "user_name": "Kelsie Ivey"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+    "created_at": "2025-04-14T15:57:18.441042+00:00",
+    "updated_at": "2025-04-14T13:39:00.693228+00:00",
+    "completed_at": "2025-04-14T13:39:00.693228+00:00",
+    "started_at": "2025-04-14T12:50:41.774158+00:00",
+    "response_time": "-1 day, 21:41:42.252186",
+    "work_time": "0:48:18.919070"
+  },
+  {
+    "id": "1e5d6081-7f2c-41d1-9996-f779fa4dce8e",
+    "title": "SI-2025-00066",
+    "description": "Vehicle: 2025 Mazda CX-5\n\n2025 Mazda CX-5 ACC SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Sent file in Teams",
+        "user_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+        "user_name": "Kelsie Ivey"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+    "created_at": "2025-05-05T19:04:55.948436+00:00",
+    "updated_at": "2025-05-06T12:09:36.273168+00:00",
+    "completed_at": "2025-05-06T12:09:36.273168+00:00",
+    "started_at": "2025-05-06T11:47:16.686721+00:00",
+    "response_time": "17:04:40.324732",
+    "work_time": "0:22:19.586447"
+  },
+  {
+    "id": "d381b177-2176-4ec4-a9e8-9c7fa0a00f07",
+    "title": "SI-2025-00033",
+    "description": "Vehicle: 2025 Ford Expediton\n\nNeeding help getting SVC SI for 25 Expedition ",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "SVC",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": ".",
+        "user_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+        "user_name": "rai cardoso"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+    "created_at": "2025-04-18T16:50:57.679705+00:00",
+    "updated_at": "2025-04-21T12:46:35.000073+00:00",
+    "completed_at": "2025-04-21T12:46:35.000073+00:00",
+    "started_at": "2025-04-21T12:08:30.645363+00:00",
+    "response_time": "2 days, 19:55:37.320368",
+    "work_time": "0:38:04.354710"
+  },
+  {
+    "id": "d5f6bd9f-8abb-4b63-9dc5-e6dcc3191353",
+    "title": "SI-2025-00028",
+    "description": "Vehicle: 2024 Toyota Corolla Cross\n\nplease and thank you \n",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "AHL",
+        "affected_portions": [
+          "R&I",
+          "Calibration Procedure",
+          "Justification"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "done in chat",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "5e73921a-d366-404e-94af-405b0b08e0b9",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-04-14T20:21:40.488531+00:00",
+    "updated_at": "2025-04-14T14:51:31.033415+00:00",
+    "completed_at": "2025-04-14T14:51:31.033415+00:00",
+    "started_at": "2025-04-14T14:43:31.315301+00:00",
+    "response_time": "-1 day, 18:29:50.544884",
+    "work_time": "0:07:59.718114"
+  },
+  {
+    "id": "19ccf8f7-0b66-4ebd-95a5-885ffc2ec80f",
+    "title": "SI-2025-00028",
+    "description": "Vehicle: 2025 Mazda CX-70\n\n2025 Mazda CX-70 BSW and SVC SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BSW-RCTW 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "mislabeled them supposed to be CX70",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-04-14T20:46:59.065247+00:00",
+    "updated_at": "2025-04-14T15:40:00.697198+00:00",
+    "completed_at": "2025-04-14T15:40:00.697198+00:00",
+    "started_at": "2025-04-14T14:57:38.491928+00:00",
+    "response_time": "-1 day, 18:53:01.631951",
+    "work_time": "0:42:22.205270"
+  },
+  {
+    "id": "b7664599-21ae-431a-a76b-16c8d20abfc2",
+    "title": "SI-2025-00034",
+    "description": "Vehicle: 2025 Buick Envision\n\nLKA and SVC SI for 2025 Buick Envision",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "LKA 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": ".",
+        "user_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+        "user_name": "rai cardoso"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+    "created_at": "2025-04-18T21:48:25.247241+00:00",
+    "updated_at": "2025-04-21T15:15:40.110028+00:00",
+    "completed_at": "2025-04-21T15:15:40.110028+00:00",
+    "started_at": "2025-04-21T13:59:01.723385+00:00",
+    "response_time": "2 days, 17:27:14.862787",
+    "work_time": "1:16:38.386643"
+  },
+  {
+    "id": "7ebaa725-5a12-469b-bfb6-0f4215510bda",
+    "title": "SI-2025-00030",
+    "description": "Vehicle: 2025 Land Rover range Rover\n\nI asked for this on 4/03/2025 but here was a log in issue, I'm still having a problem trying to get in on this  ,can someone please look and get it  thank you.",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "R&I",
+          "Calibration Procedure",
+          "Justification"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": ".",
+        "user_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+        "user_name": "rai cardoso"
+      }
+    ],
+    "creator_id": "5e73921a-d366-404e-94af-405b0b08e0b9",
+    "acceptor_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+    "created_at": "2025-04-15T14:01:25.718573+00:00",
+    "updated_at": "2025-04-15T09:12:55.126893+00:00",
+    "completed_at": "2025-04-15T09:12:55.126893+00:00",
+    "started_at": "2025-04-15T08:58:49.106844+00:00",
+    "response_time": "-1 day, 19:11:29.408320",
+    "work_time": "0:14:06.020049"
+  },
+  {
+    "id": "83eae5d8-2cf3-48af-af43-1f0f99547ab1",
+    "title": "SI-2025-00036",
+    "description": "Vehicle: 2025 Audi Q5\n\n2025 Audi Q5 rear bumper replacement and BSW SI ",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "R&I",
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": ".",
+        "user_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+        "user_name": "rai cardoso"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+    "created_at": "2025-04-21T18:46:30.483883+00:00",
+    "updated_at": "2025-04-21T15:54:32.804066+00:00",
+    "completed_at": "2025-04-21T15:54:32.804066+00:00",
+    "started_at": "2025-04-21T15:33:28.101391+00:00",
+    "response_time": "-1 day, 21:08:02.320183",
+    "work_time": "0:21:04.702675"
+  },
+  {
+    "id": "5751252b-7248-49c9-a05b-d52db91f8d88",
+    "title": "SI-2025-00043",
+    "description": "Vehicle: 2025 Cadillac XT5\n\n2025 Cadillac XT5 ACC and LKA SI ",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "cadillac xt5 acc and lka",
+        "user_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+        "user_name": "rai cardoso"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+    "created_at": "2025-04-24T17:02:26.924776+00:00",
+    "updated_at": "2025-04-24T12:35:27.927651+00:00",
+    "completed_at": "2025-04-24T12:35:27.927651+00:00",
+    "started_at": "2025-04-24T12:13:18.550421+00:00",
+    "response_time": "-1 day, 19:33:01.002875",
+    "work_time": "0:22:09.377230"
+  },
+  {
+    "id": "a1b0cd30-08a1-49f4-96b5-3ae18c55af66",
+    "title": "SI-2025-00038",
+    "description": "Vehicle: 2025 Jeep Grand Cherokee\n\nVIN: 1C4RJHAG0SC302047\n\nPlease and Thank You",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "R&I",
+          "Calibration Procedure",
+          "Justification"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "completed",
+        "user_id": "f6dae40e-66ff-4525-8f1e-e7723562241d",
+        "user_name": "Austin Pallan"
+      }
+    ],
+    "creator_id": "5e73921a-d366-404e-94af-405b0b08e0b9",
+    "acceptor_id": "f6dae40e-66ff-4525-8f1e-e7723562241d",
+    "created_at": "2025-04-23T18:48:49.605396+00:00",
+    "updated_at": "2025-04-23T16:31:47.290023+00:00",
+    "completed_at": "2025-04-23T16:31:47.290023+00:00",
+    "started_at": "2025-04-23T14:58:10.459712+00:00",
+    "response_time": "-1 day, 21:42:57.684627",
+    "work_time": "1:33:36.830311"
+  },
+  {
+    "id": "7a8954fe-7fe4-4ee3-8bdf-be07d76b93b6",
+    "title": "SI-2025-00042",
+    "description": "Vehicle: 2021 Chevrolet Tahoe\n\n2021 Chevy Tahoe Hands free module relearn SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "2021 chevy tahoe hands free module relearn",
+        "user_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+        "user_name": "rai cardoso"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+    "created_at": "2025-04-24T15:09:37.764432+00:00",
+    "updated_at": "2025-04-24T10:50:02.270735+00:00",
+    "completed_at": "2025-04-24T10:50:02.270735+00:00",
+    "started_at": "2025-04-24T10:42:44.344729+00:00",
+    "response_time": "-1 day, 19:40:24.506303",
+    "work_time": "0:07:17.926006"
+  },
+  {
+    "id": "02766b79-8f9b-4f8e-a14d-9a1c1153a11b",
+    "title": "SI-2025-00044",
+    "description": "Vehicle: 2025 Audi Q7\n\n2025 Audi Q7 ACC and SVC SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "sent in chat",
+        "user_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+        "user_name": "rai cardoso"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+    "created_at": "2025-04-25T15:07:17.205416+00:00",
+    "updated_at": "2025-04-25T12:11:08.256214+00:00",
+    "completed_at": "2025-04-25T12:11:08.256214+00:00",
+    "started_at": "2025-04-25T11:34:03.202184+00:00",
+    "response_time": "-1 day, 21:03:51.050798",
+    "work_time": "0:37:05.054030"
+  },
+  {
+    "id": "e7629390-803e-42ee-a132-e5d8522cc01d",
+    "title": "SI-2025-00045",
+    "description": "Vehicle: 2025 BMW IX\nVIN: WB523CF01SCT89902\n\n2025 BMW IX HV Disconnect Procedure",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "sent in chat",
+        "user_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+        "user_name": "rai cardoso"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+    "created_at": "2025-04-25T16:03:53.940113+00:00",
+    "updated_at": "2025-04-25T12:23:24.540265+00:00",
+    "completed_at": "2025-04-25T12:23:24.540265+00:00",
+    "started_at": "2025-04-25T12:11:24.932424+00:00",
+    "response_time": "-1 day, 20:19:30.600152",
+    "work_time": "0:11:59.607841"
+  },
+  {
+    "id": "89c144e8-8fc3-478c-aa09-f83485f78fcf",
+    "title": "SI-2025-00046",
+    "description": "Vehicle: 2025 Lexus NX350\n\n2025 Lexus NX350 AHL,LKA, and BSW SI ",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "AHL",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "done :)",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-04-28T18:18:25.324931+00:00",
+    "updated_at": "2025-04-29T11:32:17.083649+00:00",
+    "completed_at": "2025-04-29T11:32:17.083649+00:00",
+    "started_at": "2025-04-29T10:34:54.449945+00:00",
+    "response_time": "17:13:51.758718",
+    "work_time": "0:57:22.633704"
+  },
+  {
+    "id": "ff193e93-aeaa-401a-b13e-9e64807a5e46",
+    "title": "SI-2025-00059",
+    "description": "Vehicle: 2024 Honda CR-V\n\nIf available, please add the correct SI for BUC.  Thanks!",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "file updated",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "93845a6d-4268-4c32-bbca-94b87aeb94a7",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-05-02T00:07:58.904963+00:00",
+    "updated_at": "2025-05-02T07:47:41.736445+00:00",
+    "completed_at": "2025-05-02T07:47:41.736445+00:00",
+    "started_at": "2025-05-02T07:45:01.268839+00:00",
+    "response_time": "7:39:42.831482",
+    "work_time": "0:02:40.467606"
+  },
+  {
+    "id": "097ff078-e303-47f9-b22b-9298102796ea",
+    "title": "SI-2025-00019",
+    "description": "Vehicle: 2025 Toyota Tacoma\n\nplease  also get he front bumper R&I, thank you",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "R&I",
+          "Calibration Procedure",
+          "Justification"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "in information research chat",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "5e73921a-d366-404e-94af-405b0b08e0b9",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-04-08T16:05:49.688204+00:00",
+    "updated_at": "2025-04-30T08:36:07.019225+00:00",
+    "completed_at": "2025-04-30T08:36:07.019225+00:00",
+    "started_at": "2025-04-08T15:32:25.696162+00:00",
+    "response_time": "21 days, 16:30:17.331021",
+    "work_time": "21 days, 17:03:41.323063"
+  },
+  {
+    "id": "3371e928-c5a7-4b89-b208-e70251f97927",
+    "title": "SI-2025-00057",
+    "description": "Vehicle: 2024 Honda Civic\n\nSI for BUC is incorrect.  Please provide correct SI. Thanks!",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "file updated",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "93845a6d-4268-4c32-bbca-94b87aeb94a7",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-05-01T22:56:27.561611+00:00",
+    "updated_at": "2025-05-02T07:51:15.474025+00:00",
+    "completed_at": "2025-05-02T07:51:15.474025+00:00",
+    "started_at": "2025-05-02T07:44:57.768980+00:00",
+    "response_time": "8:54:47.912414",
+    "work_time": "0:06:17.705045"
+  },
+  {
+    "id": "a9eb639b-9ddd-4cf6-a6c9-ed43bd2c925b",
+    "title": "SI-2025-00047",
+    "description": "Vehicle: 2025 Mazda CX-30\n\n2025 Mazda CX-30 ACC SI ",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "sent in chat",
+        "user_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+        "user_name": "rai cardoso"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+    "created_at": "2025-04-29T20:12:35.074725+00:00",
+    "updated_at": "2025-04-30T11:13:47.390359+00:00",
+    "completed_at": "2025-04-30T11:13:47.390359+00:00",
+    "started_at": "2025-04-30T09:56:30.312294+00:00",
+    "response_time": "15:01:12.315634",
+    "work_time": "1:17:17.078065"
+  },
+  {
+    "id": "05b2ccd4-6eaf-4f3b-8ea6-4b275ff58a8f",
+    "title": "SI-2025-00058",
+    "description": "Vehicle: 2023 Honda CR-V Hybrid\n\nIf available, please add the correct SI for BUC.  Thanks!",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "file updated, everything in folder is what Honda had available",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "93845a6d-4268-4c32-bbca-94b87aeb94a7",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-05-02T00:07:32.769014+00:00",
+    "updated_at": "2025-05-02T07:57:19.623352+00:00",
+    "completed_at": "2025-05-02T07:57:19.623352+00:00",
+    "started_at": "2025-05-02T07:45:08.143338+00:00",
+    "response_time": "7:49:46.854338",
+    "work_time": "0:12:11.480014"
+  },
+  {
+    "id": "bae59afb-8297-4ca6-9813-8eec9342b1b4",
+    "title": "SI-2025-00048",
+    "description": "Vehicle: 2025 Chevy Suburban\n\n2025 Chevy Suburban ACC and LKA SI ",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "posted on Info res chat",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-04-29T21:01:19.513243+00:00",
+    "updated_at": "2025-04-30T11:21:43.473086+00:00",
+    "completed_at": "2025-04-30T11:21:43.473086+00:00",
+    "started_at": "2025-04-30T11:09:11.658854+00:00",
+    "response_time": "14:20:23.959843",
+    "work_time": "0:12:31.814232"
+  },
+  {
+    "id": "c50b61ab-85c2-4700-93b9-673302dcc821",
+    "title": "SI-2025-00040",
+    "description": "Vehicle: 2017 Lexus NX300H\n\nThe 2017 Lexus Nx300 not NX300h is the wrong file. The Si that is attached is for the LKA system and not the actual adaptive cruise control. It does not include anything about the radar or any of the components for cruise control. ",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "R&I",
+          "Calibration Procedure",
+          "Naming Issue"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "files fixed",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "ba496dc4-568e-40ce-899f-c5f9a3451405",
+    "acceptor_id": "772daae0-fb21-4f40-a464-48a8ce4c9f7d",
+    "created_at": "2025-04-24T14:02:38.753541+00:00",
+    "updated_at": "2025-04-30T11:37:29.109140+00:00",
+    "completed_at": "2025-04-30T11:37:29.109140+00:00",
+    "started_at": "2025-04-29T11:43:03.704072+00:00",
+    "response_time": "5 days, 21:34:50.355599",
+    "work_time": "23:54:25.405068"
+  },
+  {
+    "id": "72a8cac4-7e66-477d-bcd5-a8b2475b9e57",
+    "title": "SI-2025-00094",
+    "description": "Vehicle: 2020 Lincoln Corsair\n\nduplicates and out of place files. (HUD), (APA), (SVC 1)",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "APA",
+        "affected_portions": [
+          "Naming Issue"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "folders fixed",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-05-29T00:51:50.468862+00:00",
+    "updated_at": "2025-05-29T07:57:23.093283+00:00",
+    "completed_at": "2025-05-29T07:57:23.093283+00:00",
+    "started_at": "2025-05-29T07:56:59.174951+00:00",
+    "response_time": "7:05:32.624421",
+    "work_time": "0:00:23.918332"
+  },
+  {
+    "id": "774f0d9a-1831-4988-9d9a-c23476f699a2",
+    "title": "SI-2025-00051",
+    "description": "Vehicle: 2025 BMW X1\nVIN: WBX73EF01S5030787\n\n2025 BMW X1 BSM and APA SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BSW-RCTW 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Files sent on teams",
+        "user_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+        "user_name": "Kelsie Ivey"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+    "created_at": "2025-05-01T14:16:52.627131+00:00",
+    "updated_at": "2025-05-02T14:13:40.768340+00:00",
+    "completed_at": "2025-05-02T14:13:40.768340+00:00",
+    "started_at": "2025-05-02T13:49:38.633929+00:00",
+    "response_time": "23:56:48.141209",
+    "work_time": "0:24:02.134411"
+  },
+  {
+    "id": "8a75df85-3598-4260-9d0f-ebef6a8ce110",
+    "title": "SI-2025-00055",
+    "description": "Vehicle: 2025 N issan Frontier\n\nfront radar infomration for the 2025 Nissan Frontier please and thank you.",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "R&I",
+          "Calibration Procedure",
+          "Justification"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "done",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "5e73921a-d366-404e-94af-405b0b08e0b9",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-05-01T17:46:06.239843+00:00",
+    "updated_at": "2025-05-01T12:26:33.071003+00:00",
+    "completed_at": "2025-05-01T12:26:33.071003+00:00",
+    "started_at": "2025-05-01T11:47:15.750161+00:00",
+    "response_time": "-1 day, 18:40:26.831160",
+    "work_time": "0:39:17.320842"
+  },
+  {
+    "id": "23619fcf-c70d-4df5-835d-b16f902f8482",
+    "title": "SI-2025-00052",
+    "description": "Vehicle: 2022 BMW X5\nVIN: 5YMJU0C07N9M94825\n\n2022 BMW X5 Vin  Front Bumper and Windshield Remove and Replace procedure and Windshield and Front Bumper Si",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Sent Documents in teams",
+        "user_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+        "user_name": "Kelsie Ivey"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+    "created_at": "2025-05-01T15:53:19.518959+00:00",
+    "updated_at": "2025-05-02T14:24:01.203227+00:00",
+    "completed_at": "2025-05-02T14:24:01.203227+00:00",
+    "started_at": "2025-05-02T14:13:51.904730+00:00",
+    "response_time": "22:30:41.684268",
+    "work_time": "0:10:09.298497"
+  },
+  {
+    "id": "11d2cb66-08d6-47f2-a615-013960fedd9e",
+    "title": "SI-2025-00054",
+    "description": "Vehicle: 2024 Honda Accord\n\nAPA SI in BUC.  Please update with correct SI.",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "file updated",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "93845a6d-4268-4c32-bbca-94b87aeb94a7",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-05-01T17:18:29.343848+00:00",
+    "updated_at": "2025-05-01T12:55:06.527435+00:00",
+    "completed_at": "2025-05-01T12:55:06.527435+00:00",
+    "started_at": "2025-05-01T12:32:03.706694+00:00",
+    "response_time": "-1 day, 19:36:37.183587",
+    "work_time": "0:23:02.820741"
+  },
+  {
+    "id": "3ecd7a53-1d23-47c7-8c21-25a3fc2aefe4",
+    "title": "SI-2025-00070",
+    "description": "Vehicle: 2022 Mitsubishi Outlander\n\nplease include the up-to-date documentation for this year",
+    "status": "new",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BSW-RCTW 1",
+        "affected_portions": [
+          "Full Document Missing"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": null,
+    "created_at": "2025-05-06T17:32:21.979488+00:00",
+    "updated_at": null,
+    "completed_at": null,
+    "started_at": null,
+    "response_time": null,
+    "work_time": null
+  },
+  {
+    "id": "7273c407-5e14-4093-b1ae-cd8e97574499",
+    "title": "SI-2025-00056",
+    "description": "Vehicle: 2023 Honda Civic\n\nBUC SI is incorrect.  Please provide correct SI.  Thanks!",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "everything in folder is what Honda provides for BUC.",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "93845a6d-4268-4c32-bbca-94b87aeb94a7",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-05-01T22:54:58.747302+00:00",
+    "updated_at": "2025-05-02T07:43:14.722979+00:00",
+    "completed_at": "2025-05-02T07:43:14.722979+00:00",
+    "started_at": "2025-05-02T07:40:36.031041+00:00",
+    "response_time": "8:48:15.975677",
+    "work_time": "0:02:38.691938"
+  },
+  {
+    "id": "34bf4ff5-d299-46d1-b0fc-bdd2387d894c",
+    "title": "SI-2025-00080",
+    "description": "Vehicle: 2025 Chevy Trax\n\n2025 Chevy Trax ACC, SVC,AHL SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "ACC in file (ACC 3), no SVC or AHL on this year of vehicle.  Has intellibeam headlamps not adaptive.",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-05-09T17:37:08.025392+00:00",
+    "updated_at": "2025-05-14T11:10:16.387144+00:00",
+    "completed_at": "2025-05-14T11:10:16.387144+00:00",
+    "started_at": "2025-05-14T10:54:48.491142+00:00",
+    "response_time": "4 days, 17:33:08.361752",
+    "work_time": "0:15:27.896002"
+  },
+  {
+    "id": "1024e672-41be-4cb7-8d1f-a537dc36618d",
+    "title": "SI-2025-00095",
+    "description": "Vehicle: 2025 Mitsuboishbishi outlander\n\nBSW, ACC, SVC ",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "R&I",
+          "Calibration Procedure",
+          "Justification"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Added to folder and sent in teams",
+        "user_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+        "user_name": "Kelsie Ivey"
+      }
+    ],
+    "creator_id": "5e73921a-d366-404e-94af-405b0b08e0b9",
+    "acceptor_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+    "created_at": "2025-05-28T20:13:49.092036+00:00",
+    "updated_at": "2025-05-29T16:57:30.140599+00:00",
+    "completed_at": "2025-05-29T16:57:30.140599+00:00",
+    "started_at": "2025-05-29T15:38:53.901941+00:00",
+    "response_time": "20:43:41.048563",
+    "work_time": "1:18:36.238658"
+  },
+  {
+    "id": "ec6fc5be-a766-4f21-a40d-eb2443079bde",
+    "title": "SI-2025-00106",
+    "description": "Vehicle: 2023 Ford Escape\n\nThe SI provided is APA SI, please provide BUC SI in the BUC doc",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BUC",
+        "affected_portions": [
+          "Full Document Missing"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "fixed",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-06-05T00:36:31.687466+00:00",
+    "updated_at": "2025-06-05T07:50:32.717873+00:00",
+    "completed_at": "2025-06-05T07:50:32.717873+00:00",
+    "started_at": "2025-06-05T07:48:35.090186+00:00",
+    "response_time": "7:14:01.030407",
+    "work_time": "0:01:57.627687"
+  },
+  {
+    "id": "973c8eee-b359-45cd-b522-8654b97b3b15",
+    "title": "SI-2025-00114",
+    "description": "Vehicle: 2025 BMW X3\nVIN: 5UX53GP06S9Z46872\n\nneed apa and bsw for the 2025 BMW X3 vin 5UX53GP06S9Z46872 please and thank you .\n",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "APA 1",
+        "affected_portions": [
+          "R&I",
+          "Calibration Procedure",
+          "Justification"
+        ]
+      },
+      {
+        "system": "BSW-RCTW 1",
+        "affected_portions": [
+          "R&I",
+          "Calibration Procedure",
+          "Justification"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Add to folder and sent in teams",
+        "user_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+        "user_name": "Kelsie Ivey"
+      }
+    ],
+    "creator_id": "5e73921a-d366-404e-94af-405b0b08e0b9",
+    "acceptor_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+    "created_at": "2025-06-06T14:56:53.211740+00:00",
+    "updated_at": "2025-06-06T11:15:28.469068+00:00",
+    "completed_at": "2025-06-06T11:15:28.469068+00:00",
+    "started_at": "2025-06-06T10:55:40.979917+00:00",
+    "response_time": "-1 day, 20:18:35.257328",
+    "work_time": "0:19:47.489151"
+  },
+  {
+    "id": "fccf77e6-97a9-4e94-bf4b-6a5a3713e6ec",
+    "title": "SI-2025-00108",
+    "description": "Vehicle: 2025 Buick Envista\n\n2025 Buick Envista LKA SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "LKA 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "sent in teams",
+        "user_id": "79cfea77-20a4-4e2f-8fa3-f0c851960e5e",
+        "user_name": "michael johnson"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "79cfea77-20a4-4e2f-8fa3-f0c851960e5e",
+    "created_at": "2025-06-04T18:13:14.739060+00:00",
+    "updated_at": "2025-06-06T13:14:21.219119+00:00",
+    "completed_at": "2025-06-06T13:14:21.219119+00:00",
+    "started_at": "2025-06-06T13:08:51.063060+00:00",
+    "response_time": "1 day, 19:01:06.480059",
+    "work_time": "0:05:30.156059"
+  },
+  {
+    "id": "d50d0798-d8e8-4677-88a5-e80260f37065",
+    "title": "SI-2025-00114",
+    "description": "Vehicle: 2023 Ford Maverick\n\nThe doc provided is APA SI, please provide BUC SI for BUC doc",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BUC",
+        "affected_portions": [
+          "Full Document Missing"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "fixed",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": null,
+    "created_at": "2025-06-06T21:38:13.485131+00:00",
+    "updated_at": "2025-06-09T09:33:26.338617+00:00",
+    "completed_at": "2025-06-09T09:33:26.338617+00:00",
+    "started_at": null,
+    "response_time": null,
+    "work_time": null
+  },
+  {
+    "id": "4897057a-d774-4316-9642-dab9c910d3f1",
+    "title": "SI-2025-00098",
+    "description": "Vehicle: 2024 Ford Bronco Sport\n\nPlease redo all 2024 Ford Bronco Sport SI, currently they are all the regular bronco SI (They are not the same)",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 2",
+        "affected_portions": [
+          "Full Document Missing"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "files updated and fixed",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-06-03T18:39:50.465749+00:00",
+    "updated_at": "2025-06-10T11:49:48.096516+00:00",
+    "completed_at": "2025-06-10T11:49:48.096516+00:00",
+    "started_at": "2025-06-10T09:20:35.173481+00:00",
+    "response_time": "6 days, 17:09:57.630767",
+    "work_time": "2:29:12.923035"
+  },
+  {
+    "id": "b22d0696-4ac3-472a-805f-b6aeed36588a",
+    "title": "SI-2025-00125",
+    "description": "Vehicle: 2017 Ford E-350\n\nPlease add entire model to our SI library\n",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BUC",
+        "affected_portions": [
+          "Full Document Missing"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Folder updated/ si added",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-06-10T18:09:14.024753+00:00",
+    "updated_at": "2025-06-10T13:20:28.877977+00:00",
+    "completed_at": "2025-06-10T13:20:28.877977+00:00",
+    "started_at": "2025-06-10T12:47:08.144829+00:00",
+    "response_time": "-1 day, 19:11:14.853224",
+    "work_time": "0:33:20.733148"
+  },
+  {
+    "id": "60b30bd0-19a4-4444-97eb-d2467ee83081",
+    "title": "SI-2025-00124",
+    "description": "Vehicle: 2019 Ford E-350\n\nPlease add entire model to our SI library\n",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BUC",
+        "affected_portions": [
+          "Full Document Missing"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "folder updated, si added",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-06-10T18:08:20.222001+00:00",
+    "updated_at": "2025-06-10T13:26:42.814962+00:00",
+    "completed_at": "2025-06-10T13:26:42.814962+00:00",
+    "started_at": "2025-06-10T12:47:25.445607+00:00",
+    "response_time": "-1 day, 19:18:22.592961",
+    "work_time": "0:39:17.369355"
+  },
+  {
+    "id": "f3365c06-da43-4d6d-a739-1bc62f2aa4ac",
+    "title": "SI-2025-00128",
+    "description": "Vehicle: 2024 BMW X1\n\ncan i please have SVC and APA for a 2024 BMW X1 vin WB523F00RCN42537 thank you for all you do!",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "APA 1",
+        "affected_portions": [
+          "R&I",
+          "Calibration Procedure",
+          "Justification"
+        ]
+      },
+      {
+        "system": "SVC 1",
+        "affected_portions": [
+          "R&I",
+          "Calibration Procedure",
+          "Justification"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "VIN is invalid. please assist",
+        "user_id": "79cfea77-20a4-4e2f-8fa3-f0c851960e5e",
+        "user_name": "michael johnson"
+      }
+    ],
+    "creator_id": "5e73921a-d366-404e-94af-405b0b08e0b9",
+    "acceptor_id": "79cfea77-20a4-4e2f-8fa3-f0c851960e5e",
+    "created_at": "2025-06-10T19:45:59.019027+00:00",
+    "updated_at": "2025-06-11T11:15:12.151016+00:00",
+    "completed_at": "2025-06-11T11:15:12.151016+00:00",
+    "started_at": "2025-06-11T11:10:30.783814+00:00",
+    "response_time": "15:29:13.131989",
+    "work_time": "0:04:41.367202"
+  },
+  {
+    "id": "50d48619-537f-4fdb-b672-c36178628b27",
+    "title": "SI-2025-00119",
+    "description": "Vehicle: 2025 BMW X5\nVIN: 5UX13EU02S9X93754\n\n2025 BMW X5 Front side Radar ",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BSW-RCTW 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "SI in teams",
+        "user_id": "79cfea77-20a4-4e2f-8fa3-f0c851960e5e",
+        "user_name": "michael johnson"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "79cfea77-20a4-4e2f-8fa3-f0c851960e5e",
+    "created_at": "2025-06-10T17:52:27.617336+00:00",
+    "updated_at": "2025-06-11T11:20:42.381259+00:00",
+    "completed_at": "2025-06-11T11:20:42.381259+00:00",
+    "started_at": "2025-06-11T11:13:33.770334+00:00",
+    "response_time": "17:28:14.763923",
+    "work_time": "0:07:08.610925"
+  },
+  {
+    "id": "3047adec-20ba-4219-9708-12f22798a5f2",
+    "title": "SI-2025-00118",
+    "description": "Vehicle: 2013 Ford E-150\n\nPlease add entire model to our SI library",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BUC",
+        "affected_portions": [
+          "Full Document Missing"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "folder built",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-06-10T17:02:16.302702+00:00",
+    "updated_at": "2025-06-12T07:48:46.306643+00:00",
+    "completed_at": "2025-06-12T07:48:46.306643+00:00",
+    "started_at": "2025-06-12T07:45:24.287420+00:00",
+    "response_time": "1 day, 14:46:30.003941",
+    "work_time": "0:03:22.019223"
+  },
+  {
+    "id": "355c22d2-9ede-4b8d-ace8-f12a2b4016e5",
+    "title": "SI-2025-00069",
+    "description": "Vehicle: 2024 Mitsubishi Outlander Sport\n\nplease include the work procedure and missing docs",
+    "status": "Needs Info",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BUC",
+        "affected_portions": [
+          "R&I"
+        ]
+      },
+      {
+        "system": "BSW-RCTW 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Which systems are missing information?",
+        "user_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+        "user_name": "Kelsie Ivey"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": null,
+    "created_at": "2025-05-05T20:18:40.478332+00:00",
+    "updated_at": "2025-06-19T12:11:31.018463+00:00",
+    "completed_at": null,
+    "started_at": null,
+    "response_time": null,
+    "work_time": null
+  },
+  {
+    "id": "f71e1df8-e4b3-43e6-bf44-c4b8477222e5",
+    "title": "SI-2025-00129",
+    "description": "Vehicle: 2025 BMW IX50\nVIN: WB523CF09SCS06617\n\ni need 2025 BMW IX50 ACC and SVC SI.",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Set ACC documents in teams and put it in the fill. Wasnt able to find the SVC information needed.",
+        "user_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+        "user_name": "Kelsie Ivey"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+    "created_at": "2025-06-12T23:47:39.991154+00:00",
+    "updated_at": "2025-06-19T17:25:08.217602+00:00",
+    "completed_at": "2025-06-19T17:25:08.217602+00:00",
+    "started_at": "2025-06-19T16:53:03.671995+00:00",
+    "response_time": "6 days, 17:37:28.226448",
+    "work_time": "0:32:04.545607"
+  },
+  {
+    "id": "f58c11fa-1b9f-49e8-9276-0afaf55fd9aa",
+    "title": "SI-2025-00130",
+    "description": "Vehicle: 2024 BMW X1\nVIN: WBX13EF05R5Y40116\n\n2024 BMW X1 APA SI or justification",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "APA",
+        "affected_portions": [
+          "Calibration Procedure",
+          "Justification"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "f6dae40e-66ff-4525-8f1e-e7723562241d",
+    "created_at": "2025-06-16T16:52:34.733403+00:00",
+    "updated_at": "2025-06-23T14:15:45.480878+00:00",
+    "completed_at": "2025-06-23T14:15:45.480878+00:00",
+    "started_at": "2025-06-23T12:37:46.908301+00:00",
+    "response_time": "6 days, 21:23:10.747475",
+    "work_time": "1:37:58.572577"
+  },
+  {
+    "id": "da80a0ea-1a0e-43b3-9701-0266a6a30d12",
+    "title": "SI-2025-00112",
+    "description": "Vehicle: 2022 Ford Edge\n\nThe SI is correct, just outdated. Ford has since provided a new R&I doc that links to a BUC initialization. Please provide the updated docs",
+    "status": "In Progress",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BUC",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+    "created_at": "2025-06-05T18:11:24.300525+00:00",
+    "updated_at": "2025-06-23T14:15:53.754873+00:00",
+    "completed_at": null,
+    "started_at": "2025-06-10T14:22:11.671181+00:00",
+    "response_time": null,
+    "work_time": null
+  },
+  {
+    "id": "0c47a2ef-8be9-4ec7-b34a-a29d8043a1bb",
+    "title": "SI-2025-00063",
+    "description": "Vehicle: 2025 Audi A3\n\n2025 Audi A3 APA SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "APA",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "posted in Info Res Chat",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-05-05T17:03:02.246075+00:00",
+    "updated_at": "2025-05-06T08:26:03.165377+00:00",
+    "completed_at": "2025-05-06T08:26:03.165377+00:00",
+    "started_at": "2025-05-06T08:17:10.321699+00:00",
+    "response_time": "15:23:00.919302",
+    "work_time": "0:08:52.843678"
+  },
+  {
+    "id": "e4803934-345e-4906-9108-82a4a2fa7563",
+    "title": "SI-2025-00062",
+    "description": "Vehicle: 2025 Audi A3\n\n2025 Audi A3 ACC SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "in chat",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-05-05T15:12:41.140776+00:00",
+    "updated_at": "2025-05-06T08:28:46.267259+00:00",
+    "completed_at": "2025-05-06T08:28:46.267259+00:00",
+    "started_at": "2025-05-06T08:16:52.042726+00:00",
+    "response_time": "17:16:05.126483",
+    "work_time": "0:11:54.224533"
+  },
+  {
+    "id": "b8d424d2-c563-416c-b5ad-fd0f457b3a03",
+    "title": "SI-2025-00064",
+    "description": "Vehicle: 2025 Toyota Highlander\n\nI actually need the SAS pelase and Thank you ",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "R&I",
+          "Calibration Procedure",
+          "Justification"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "in chat",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "5e73921a-d366-404e-94af-405b0b08e0b9",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-05-05T16:02:36.559084+00:00",
+    "updated_at": "2025-05-06T09:02:07.652130+00:00",
+    "completed_at": "2025-05-06T09:02:07.652130+00:00",
+    "started_at": "2025-05-06T08:29:06.680559+00:00",
+    "response_time": "16:59:31.093046",
+    "work_time": "0:33:00.971571"
+  },
+  {
+    "id": "79b768f8-c6c5-422f-91d8-a779a5a9f2f5",
+    "title": "SI-2025-00098",
+    "description": "Vehicle: 2025 Lincoln Corsair\n\n2025 Corsair Blindspot, Park Assist, ACC, and SVC SI ",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "folders built",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-05-29T22:37:14.252809+00:00",
+    "updated_at": "2025-05-30T08:41:40.048899+00:00",
+    "completed_at": "2025-05-30T08:41:40.048899+00:00",
+    "started_at": "2025-05-30T07:44:44.455899+00:00",
+    "response_time": "10:04:25.796090",
+    "work_time": "0:56:55.593000"
+  },
+  {
+    "id": "3e03599e-22ef-4df6-b5ae-f12a3b2555fb",
+    "title": "SI-2025-00107",
+    "description": "Vehicle: 2024 BMW X1\nVIN: Wbx73ef07r5y45277\n\n2024 BMW X1 BSW SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BSW-RCTW 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Add to folder and sent on teams",
+        "user_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+        "user_name": "Kelsie Ivey"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+    "created_at": "2025-06-04T17:09:22.121353+00:00",
+    "updated_at": "2025-06-04T15:53:31.123732+00:00",
+    "completed_at": "2025-06-04T15:53:31.123732+00:00",
+    "started_at": "2025-06-04T15:43:14.354732+00:00",
+    "response_time": "-1 day, 22:44:09.002379",
+    "work_time": "0:10:16.769000"
+  },
+  {
+    "id": "03b07873-e2e6-419c-84a7-18f8e976ab3f",
+    "title": "SI-2025-00106",
+    "description": "Vehicle: 2024 BMW X6\nVIN: 5UX33EX09S9Y38208\n\n2024 BMW X6 SVC SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "SVC",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Added to file and sent in teams",
+        "user_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+        "user_name": "Kelsie Ivey"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+    "created_at": "2025-06-04T15:06:34.093944+00:00",
+    "updated_at": "2025-06-06T11:43:35.359103+00:00",
+    "completed_at": "2025-06-06T11:43:35.359103+00:00",
+    "started_at": "2025-06-06T10:56:02.001709+00:00",
+    "response_time": "1 day, 20:37:01.265159",
+    "work_time": "0:47:33.357394"
+  },
+  {
+    "id": "1ee26d7f-e0ad-40c7-837e-676d6f79e907",
+    "title": "SI-2025-00116",
+    "description": "Vehicle: 2024 Ford Mustang\n\nThe current Ford website shows SVC as not an option for the ford mustang, please remove the SVC 1 doc and add a \"no SVC\" placeholder",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "NV",
+        "affected_portions": [
+          "Justification"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "fixed",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": null,
+    "created_at": "2025-06-07T00:36:45.415027+00:00",
+    "updated_at": "2025-06-09T09:26:38.256244+00:00",
+    "completed_at": "2025-06-09T09:26:38.256244+00:00",
+    "started_at": null,
+    "response_time": null,
+    "work_time": null
+  },
+  {
+    "id": "9256a39b-2e61-4273-8028-810a4cb04caf",
+    "title": "SI-2025-00113",
+    "description": "Vehicle: 2017 Ford Explorer\n\nSVC is equipped, please remove the \"no SVC\" placeholder and add the SVC doc",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "SVC 2",
+        "affected_portions": [
+          "Full Document Missing"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "done fixed",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-06-06T00:50:44.355174+00:00",
+    "updated_at": "2025-06-10T09:36:45.830622+00:00",
+    "completed_at": "2025-06-10T09:36:45.830622+00:00",
+    "started_at": "2025-06-10T09:21:08.702217+00:00",
+    "response_time": "4 days, 8:46:01.475448",
+    "work_time": "0:15:37.128405"
+  },
+  {
+    "id": "6da9d90b-0989-41bf-a434-0ad601f1422e",
+    "title": "SI-2025-00127",
+    "description": "Vehicle: 2015 Ford E-350\n\nPlease add entire model to our SI library\n",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BUC",
+        "affected_portions": [
+          "Full Document Missing"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "duplicate",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": null,
+    "created_at": "2025-06-10T18:10:03.312354+00:00",
+    "updated_at": "2025-06-10T12:46:56.133133+00:00",
+    "completed_at": "2025-06-10T12:46:56.133133+00:00",
+    "started_at": null,
+    "response_time": null,
+    "work_time": null
+  },
+  {
+    "id": "bbe4b902-88db-46fc-86b3-3399c55610e0",
+    "title": "SI-2025-00121",
+    "description": "Vehicle: 2015 Ford E-350\n\nPlease add entire model to our SI library\n",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BUC",
+        "affected_portions": [
+          "Full Document Missing"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "folder updated, si added",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-06-10T17:40:42.434500+00:00",
+    "updated_at": "2025-06-10T12:55:53.932204+00:00",
+    "completed_at": "2025-06-10T12:55:53.932204+00:00",
+    "started_at": "2025-06-10T12:46:25.978837+00:00",
+    "response_time": "-1 day, 19:15:11.497704",
+    "work_time": "0:09:27.953367"
+  },
+  {
+    "id": "af6803e0-13a0-4619-8f85-3597c63fe53d",
+    "title": "SI-2025-00126",
+    "description": "Vehicle: 2016 Ford E-350\n\nPlease add entire model to our SI library\n",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Full Document Missing"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "folder updated, si added",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-06-10T18:09:41.467674+00:00",
+    "updated_at": "2025-06-10T13:01:08.168332+00:00",
+    "completed_at": "2025-06-10T13:01:08.168332+00:00",
+    "started_at": "2025-06-10T12:47:02.895615+00:00",
+    "response_time": "-1 day, 18:51:26.700658",
+    "work_time": "0:14:05.272717"
+  },
+  {
+    "id": "ccb5045e-b224-4ca6-a5a0-4b968d442774",
+    "title": "SI-2025-00111",
+    "description": "Vehicle: 2021 Ford Edge\n\nThe SI is correct, just outdated. Ford has since provided a new R&I doc that links to a BUC initialization. Please provide these updated docs",
+    "status": "In Progress",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BUC",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+    "created_at": "2025-06-05T17:29:44.671950+00:00",
+    "updated_at": "2025-06-10T14:22:15.419305+00:00",
+    "completed_at": null,
+    "started_at": "2025-06-10T14:22:15.419305+00:00",
+    "response_time": null,
+    "work_time": null
+  },
+  {
+    "id": "e9c8fef5-2805-4883-affd-24a178f0e7ed",
+    "title": "SI-2025-00122",
+    "description": "Vehicle: 2021 Ford E-350\n\nPlease add entire model to our SI library\n",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BUC",
+        "affected_portions": [
+          "Full Document Missing"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "folder updated, si added",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-06-10T18:06:48.239401+00:00",
+    "updated_at": "2025-06-10T13:58:04.629140+00:00",
+    "completed_at": "2025-06-10T13:58:04.629140+00:00",
+    "started_at": "2025-06-10T12:47:29.992957+00:00",
+    "response_time": "-1 day, 19:51:16.389739",
+    "work_time": "1:10:34.636183"
+  },
+  {
+    "id": "09cd372f-3242-4515-a6c4-86c8e95825f4",
+    "title": "SI-2025-00117",
+    "description": "Vehicle: 2013 Kia Sportage\n\nThe hyperlink leads to a BUC calibration instead of BSW",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BSW-RCTW 1",
+        "affected_portions": [
+          "Full Document Missing"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "added info on buc, apa 2 is correct, no bsw on this year.",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "57eb4957-28a8-4768-96b7-3bb2502801e3",
+    "acceptor_id": null,
+    "created_at": "2025-06-09T07:26:58.459566+00:00",
+    "updated_at": "2025-06-12T07:59:09.679325+00:00",
+    "completed_at": "2025-06-12T07:59:09.679325+00:00",
+    "started_at": null,
+    "response_time": null,
+    "work_time": null
+  },
+  {
+    "id": "df19c7e4-913b-4678-b705-912efa9a346d",
+    "title": "SI-2025-00103",
+    "description": "Vehicle: 2023 Ford E-350\n\nPlease provide E-350 SI for all systems, the SI provided is for a 2023 Bronco Sport",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BUC",
+        "affected_portions": [
+          "Full Document Missing"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "folders fixed.",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": null,
+    "created_at": "2025-06-04T01:51:47.466377+00:00",
+    "updated_at": "2025-06-12T08:26:37.158028+00:00",
+    "completed_at": "2025-06-12T08:26:37.158028+00:00",
+    "started_at": null,
+    "response_time": null,
+    "work_time": null
+  },
+  {
+    "id": "951fadea-1251-4001-8e90-d8a06f29a61c",
+    "title": "SI-2025-00105",
+    "description": "Vehicle: 2020 Ford Edge\n\nrename \"2020 Ford Edge Parking Aid Cameras\" to \"2020 Ford Edge (SVC 2)\"",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "SVC 2",
+        "affected_portions": [
+          "Naming Issue"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "svc 2 added",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": null,
+    "created_at": "2025-06-04T03:43:54.601484+00:00",
+    "updated_at": "2025-06-12T09:05:17.950374+00:00",
+    "completed_at": "2025-06-12T09:05:17.950374+00:00",
+    "started_at": null,
+    "response_time": null,
+    "work_time": null
+  },
+  {
+    "id": "3c19e507-0b9b-4b99-8eed-bed30488a2bb",
+    "title": "SI-2025-00118",
+    "description": "Vehicle: 2025 BMW X5\nVIN: 5UX13EU02S9X93754\n\n2025 BMW X5 LKA, AHL, and Night Vision SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "LKA 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "sent in chat",
+        "user_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+        "user_name": "rai cardoso"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+    "created_at": "2025-06-10T16:51:00.579320+00:00",
+    "updated_at": "2025-06-12T13:20:10.573993+00:00",
+    "completed_at": "2025-06-12T13:20:10.573993+00:00",
+    "started_at": "2025-06-10T14:22:14.046418+00:00",
+    "response_time": "1 day, 20:29:09.994673",
+    "work_time": "1 day, 22:57:56.527575"
+  },
+  {
+    "id": "d6ca3adf-386c-4ec3-ba7a-d0fa9b4f36ed",
+    "title": "SI-2025-00061",
+    "description": "Vehicle: 2025 Chevy Equinox\n\n2025 Chevy Equinox ACC SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "79cfea77-20a4-4e2f-8fa3-f0c851960e5e",
+    "created_at": "2025-05-02T22:19:42.455455+00:00",
+    "updated_at": "2025-05-06T14:08:30.543940+00:00",
+    "completed_at": "2025-05-06T14:08:30.543940+00:00",
+    "started_at": "2025-05-06T14:01:45.068429+00:00",
+    "response_time": "3 days, 15:48:48.088485",
+    "work_time": "0:06:45.475511"
+  },
+  {
+    "id": "dbcfdf03-4c24-4dfc-b4eb-e824f5fe17d0",
+    "title": "SI-2025-00079",
+    "description": "Vehicle: 2025 BMW M240i\nVIN: 3MW53CM03S8E91498\n\n2025 BMW M240i ACC, LKA, and APA SI Vin 3MW53CM03S8E91498 ",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Added to folder and sent in teams",
+        "user_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+        "user_name": "Kelsie Ivey"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+    "created_at": "2025-05-09T17:07:07.968104+00:00",
+    "updated_at": "2025-05-29T15:32:56.366630+00:00",
+    "completed_at": "2025-05-29T15:32:56.366630+00:00",
+    "started_at": "2025-05-29T15:14:11.692987+00:00",
+    "response_time": "19 days, 22:25:48.398526",
+    "work_time": "0:18:44.673643"
+  },
+  {
+    "id": "382e4967-21f6-4c8d-931b-b701ca9bff8a",
+    "title": "SI-2025-00071",
+    "description": "Vehicle: 2015 Infiniti Q60\n\nplease and thank you ",
+    "status": "Needs Info",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "SVC",
+        "affected_portions": [
+          "R&I",
+          "Calibration Procedure",
+          "Justification"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "site not working?",
+        "user_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+        "user_name": "rai cardoso"
+      }
+    ],
+    "creator_id": "5e73921a-d366-404e-94af-405b0b08e0b9",
+    "acceptor_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+    "created_at": "2025-05-07T15:52:39.909231+00:00",
+    "updated_at": "2025-05-07T11:24:01.538296+00:00",
+    "completed_at": null,
+    "started_at": "2025-05-07T11:06:15.542012+00:00",
+    "response_time": null,
+    "work_time": null
+  },
+  {
+    "id": "ee742349-cb54-425e-a9f1-6e6a4d5ed3d7",
+    "title": "SI-2025-00104",
+    "description": "Vehicle: 2022 Ford EcoSport\n\nplease provide the referenced initialization document",
+    "status": "new",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": null,
+    "created_at": "2025-06-04T02:59:24.326568+00:00",
+    "updated_at": null,
+    "completed_at": null,
+    "started_at": null,
+    "response_time": null,
+    "work_time": null
+  },
+  {
+    "id": "5b34b1b2-f230-4ef2-bbdc-1395bb7b53b9",
+    "title": "SI-2025-00073",
+    "description": "Vehicle: 2025 Chevy Silverado 1500\n\n2025 Chevy Silverado 1500 LKA and SAS SI ",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "LKA 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "in chat",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-05-08T15:25:13.221282+00:00",
+    "updated_at": "2025-05-08T14:08:47.287732+00:00",
+    "completed_at": "2025-05-08T14:08:47.287732+00:00",
+    "started_at": "2025-05-08T14:06:53.633246+00:00",
+    "response_time": "-1 day, 22:43:34.066450",
+    "work_time": "0:01:53.654486"
+  },
+  {
+    "id": "e4cb2085-e1ff-4435-a9ec-340b3dbce069",
+    "title": "SI-2025-00078",
+    "description": "Vehicle: 2024 Hyundai Kona Electric\n\nI'mm acutally looking for the OCS/SWS for this 2024 Hyundai Kona electric, \n",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "R&I",
+          "Calibration Procedure",
+          "Justification"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Sent in teams",
+        "user_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+        "user_name": "Kelsie Ivey"
+      }
+    ],
+    "creator_id": "5e73921a-d366-404e-94af-405b0b08e0b9",
+    "acceptor_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+    "created_at": "2025-05-09T13:35:04.725144+00:00",
+    "updated_at": "2025-05-09T12:31:24.033696+00:00",
+    "completed_at": "2025-05-09T12:31:24.033696+00:00",
+    "started_at": "2025-05-09T12:23:27.219139+00:00",
+    "response_time": "-1 day, 22:56:19.308552",
+    "work_time": "0:07:56.814557"
+  },
+  {
+    "id": "3cb7cf65-a1d3-4c81-841c-2717ac155243",
+    "title": "SI-2025-00014",
+    "description": "Vehicle: 2023 Nissan Z\n\nplease include the work procedure as refernced above in the screenshot",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BSW-RCTW 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Correct R&I has been put into Document.",
+        "user_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+        "user_name": "Kelsie Ivey"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": "1dd235ed-e461-4c24-8be1-9410347b4932",
+    "created_at": "2025-04-04T04:55:16.710449+00:00",
+    "updated_at": "2025-05-10T11:54:20.193096+00:00",
+    "completed_at": "2025-05-10T11:54:20.193096+00:00",
+    "started_at": "2025-04-07T11:45:29.725671+00:00",
+    "response_time": "36 days, 6:59:03.482647",
+    "work_time": "33 days, 0:08:50.467425"
+  },
+  {
+    "id": "4f96c712-6c05-4884-89f4-90543ed83f6a",
+    "title": "SI-2025-00081",
+    "description": "Vehicle: 2025 Lexus GX550\n\nlong one but i please need 2025 Lexus GX550 ACC, BSW, APA, LKA, AHL, SVC, and the Front corner and rear coner radars. . please noify Jalen when its ready",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "R&I",
+          "Calibration Procedure",
+          "Justification"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Files created and safed",
+        "user_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+        "user_name": "Kelsie Ivey"
+      }
+    ],
+    "creator_id": "5e73921a-d366-404e-94af-405b0b08e0b9",
+    "acceptor_id": null,
+    "created_at": "2025-05-09T21:10:36.118094+00:00",
+    "updated_at": "2025-05-10T13:25:09.458543+00:00",
+    "completed_at": "2025-05-10T13:25:09.458543+00:00",
+    "started_at": null,
+    "response_time": null,
+    "work_time": null
+  },
+  {
+    "id": "e10ddbc2-2f48-443c-af1d-bb4e538711e5",
+    "title": "SI-2025-00050",
+    "description": "Vehicle: 2024 Mazda CX-30\n\nFiled on Dee's behalf. If you have any questions please reach out to her.  - missing aiming procedure",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "APA",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "apa document fixed. no aiming documents needed",
+        "user_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+        "user_name": "rai cardoso"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+    "created_at": "2025-05-01T14:16:43.118867+00:00",
+    "updated_at": "2025-05-12T12:10:06.514766+00:00",
+    "completed_at": "2025-05-12T12:10:06.514766+00:00",
+    "started_at": "2025-05-12T10:51:31.401113+00:00",
+    "response_time": "10 days, 21:53:23.395899",
+    "work_time": "1:18:35.113653"
+  },
+  {
+    "id": "0d9b1f11-bad9-41f1-abc6-5c3672621b69",
+    "title": "SI-2025-00049",
+    "description": "Vehicle: 2022 Land Rover Velar\n\nFiled on behalf of Dee, please reach out to her for any questions",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "LKA 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "calibration done with the specific tool. no calibration document found",
+        "user_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+        "user_name": "rai cardoso"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+    "created_at": "2025-05-01T02:54:17.213990+00:00",
+    "updated_at": "2025-05-12T12:14:37.697681+00:00",
+    "completed_at": "2025-05-12T12:14:37.697681+00:00",
+    "started_at": "2025-05-12T10:51:19.273199+00:00",
+    "response_time": "11 days, 9:20:20.483691",
+    "work_time": "1:23:18.424482"
+  },
+  {
+    "id": "28716e1b-32b9-408a-a3bc-52f353c3e4de",
+    "title": "SI-2025-00083",
+    "description": "Vehicle: 2025 chrysler pacifica\n\nPlease send ACC for a 2025 Chrysler Pacifica - mpk\nI could not find one when i was in STellantis",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "R&I",
+          "Calibration Procedure",
+          "Justification"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Sent in teams and added to folder",
+        "user_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+        "user_name": "Kelsie Ivey"
+      }
+    ],
+    "creator_id": "5e73921a-d366-404e-94af-405b0b08e0b9",
+    "acceptor_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+    "created_at": "2025-05-12T19:44:43.351293+00:00",
+    "updated_at": "2025-05-13T12:39:01.206840+00:00",
+    "completed_at": "2025-05-13T12:39:01.206840+00:00",
+    "started_at": "2025-05-13T12:29:03.550883+00:00",
+    "response_time": "16:54:17.855547",
+    "work_time": "0:09:57.655957"
+  },
+  {
+    "id": "ffe77f8c-0faf-4ff9-b25b-9c62e1e7bde7",
+    "title": "SI-2025-00084",
+    "description": "Vehicle: 2025 Infiniti QX80\n\n2025 Infiniti QX80 ACC SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Sent in teams and add to folder",
+        "user_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+        "user_name": "Kelsie Ivey"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+    "created_at": "2025-05-13T15:42:33.829004+00:00",
+    "updated_at": "2025-05-13T14:23:32.793465+00:00",
+    "completed_at": "2025-05-13T14:23:32.793465+00:00",
+    "started_at": "2025-05-13T12:43:19.324085+00:00",
+    "response_time": "-1 day, 22:40:58.964461",
+    "work_time": "1:40:13.469380"
+  },
+  {
+    "id": "9d165934-47aa-439e-b427-ca278813048b",
+    "title": "SI-2025-00072",
+    "description": "Vehicle: 2023 Nissan Altima\n\nplease include the work procedure - Camera Aiming Adjustment",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "LKA 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "camera adj added to file",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-05-08T03:26:43.682869+00:00",
+    "updated_at": "2025-05-15T07:59:32.430945+00:00",
+    "completed_at": "2025-05-15T07:59:32.430945+00:00",
+    "started_at": "2025-05-15T07:53:47.779624+00:00",
+    "response_time": "7 days, 4:32:48.748076",
+    "work_time": "0:05:44.651321"
+  },
+  {
+    "id": "e2803f12-a1ba-44a5-8045-d80c6a1be4b7",
+    "title": "SI-2025-00077",
+    "description": "Vehicle: 2024 Nissan Frontier\n\nplease include the \"2. CAMERA AIMING ADJUSTMENT\" documents",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "LKA 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "added camera aiming/adj to files",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-05-09T02:10:21.308356+00:00",
+    "updated_at": "2025-05-15T08:14:50.256326+00:00",
+    "completed_at": "2025-05-15T08:14:50.256326+00:00",
+    "started_at": "2025-05-15T08:00:42.106232+00:00",
+    "response_time": "6 days, 6:04:28.947970",
+    "work_time": "0:14:08.150094"
+  },
+  {
+    "id": "eb8f5978-8883-432a-b328-b231d4faab3f",
+    "title": "SI-2025-00075",
+    "description": "Vehicle: 2024 Nissan Armada\n\nplease include the BUC adjustement - the nissan website path is in the screenshot",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BUC",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "buc adj added to file",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-05-09T01:38:04.649351+00:00",
+    "updated_at": "2025-05-15T08:32:50.520707+00:00",
+    "completed_at": "2025-05-15T08:32:50.520707+00:00",
+    "started_at": "2025-05-15T08:00:52.639356+00:00",
+    "response_time": "6 days, 6:54:45.871356",
+    "work_time": "0:31:57.881351"
+  },
+  {
+    "id": "810407ce-dba4-4679-97da-5050d07fd670",
+    "title": "SI-2025-00073",
+    "description": "Vehicle: 2024 Nissan Ariya\n\nplease inlude all SVC calibration procedures - missing \"with ProAssist\" option - the nissan provided as a screenshot",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "SVC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "necessary files put in file",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-05-09T00:22:49.326880+00:00",
+    "updated_at": "2025-05-15T09:12:42.895842+00:00",
+    "completed_at": "2025-05-15T09:12:42.895842+00:00",
+    "started_at": "2025-05-15T08:00:03.579488+00:00",
+    "response_time": "6 days, 8:49:53.568962",
+    "work_time": "1:12:39.316354"
+  },
+  {
+    "id": "0cc664fa-fbc0-43f5-9524-bae0e898a93f",
+    "title": "SI-2025-00082",
+    "description": "Vehicle: 2024 Chevrolet Trax\n\n2025 Chevrolet Trax need the ACC and the SVC please and thank you.\n",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "R&I",
+          "Calibration Procedure",
+          "Justification"
+        ]
+      },
+      {
+        "system": "SVC 1",
+        "affected_portions": [
+          "R&I",
+          "Calibration Procedure",
+          "Justification"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "ACC is in file (ACC 3) and no SVC on this vehicle",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "5e73921a-d366-404e-94af-405b0b08e0b9",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-05-12T16:06:36.911418+00:00",
+    "updated_at": "2025-05-14T11:08:49.526460+00:00",
+    "completed_at": "2025-05-14T11:08:49.526460+00:00",
+    "started_at": "2025-05-14T10:54:52.285347+00:00",
+    "response_time": "1 day, 19:02:12.615042",
+    "work_time": "0:13:57.241113"
+  },
+  {
+    "id": "833af14a-4b58-4272-a965-264041ededdf",
+    "title": "SI-2025-00094",
+    "description": "Vehicle: 2025 BMW 3 Series\nVIN: 3MW69CW08S8F39562\n\n2025 BMW 3 Series ACC, APA and SVC SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Added to folder and sent on teams",
+        "user_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+        "user_name": "Kelsie Ivey"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+    "created_at": "2025-05-28T16:15:40.512743+00:00",
+    "updated_at": "2025-05-29T15:09:10.581749+00:00",
+    "completed_at": "2025-05-29T15:09:10.581749+00:00",
+    "started_at": "2025-05-29T14:22:50.459038+00:00",
+    "response_time": "22:53:30.069006",
+    "work_time": "0:46:20.122711"
+  },
+  {
+    "id": "1ba39824-5d33-4025-9654-927fddde1081",
+    "title": "SI-2025-00085",
+    "description": "Vehicle: 2025 Jeep Compass\n\nPlease i need the SVC and the LKA for this vehuicle as soon as you can  vin 3C4NJDBN3ST517317",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "LKA 1",
+        "affected_portions": [
+          "R&I",
+          "Calibration Procedure",
+          "Justification"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "on info res chat",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "5e73921a-d366-404e-94af-405b0b08e0b9",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-05-14T17:24:19.927645+00:00",
+    "updated_at": "2025-05-14T12:05:24.251529+00:00",
+    "completed_at": "2025-05-14T12:05:24.251529+00:00",
+    "started_at": "2025-05-14T11:17:04.104198+00:00",
+    "response_time": "-1 day, 18:41:04.323884",
+    "work_time": "0:48:20.147331"
+  },
+  {
+    "id": "d228c8f2-8aaf-4e8e-a44f-5ca3b3ef95c7",
+    "title": "SI-2025-00076",
+    "description": "Vehicle: 2024 Nissan Frontier\n\nPlease include all relavent documents for calibration procedure - the screenshot has the website path and the list of documents required for the radar cal",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 2",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "rad calib info added to files",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-05-09T02:02:12.875252+00:00",
+    "updated_at": "2025-05-15T08:25:56.662018+00:00",
+    "completed_at": "2025-05-15T08:25:56.662018+00:00",
+    "started_at": "2025-05-15T08:00:48.644025+00:00",
+    "response_time": "6 days, 6:23:43.786766",
+    "work_time": "0:25:08.017993"
+  },
+  {
+    "id": "718a8d3c-b80d-492b-b353-36ff2d511df0",
+    "title": "SI-2025-00012",
+    "description": "Vehicle: 2024 Nissan Murano\n\nR&I provided is for BSW light indicator, not the radar. R&I for radar is required for the \"when to Calibrate\"",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BSW-RCTW 1",
+        "affected_portions": [
+          "R&I"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "file updated with correct info",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": "1dd235ed-e461-4c24-8be1-9410347b4932",
+    "created_at": "2025-04-04T02:39:23.185430+00:00",
+    "updated_at": "2025-05-15T09:21:59.404313+00:00",
+    "completed_at": "2025-05-15T09:21:59.404313+00:00",
+    "started_at": "2025-04-07T11:52:41.173368+00:00",
+    "response_time": "41 days, 6:42:36.218883",
+    "work_time": "37 days, 21:29:18.230945"
+  },
+  {
+    "id": "4746b90e-d994-4bd3-9b92-9a11592e33bc",
+    "title": "SI-2025-00087",
+    "description": "Vehicle: 2025 Audi A3\n\n2025 Audi A3 BUC SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BUC",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "posted on info res chat",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-05-15T20:57:24.358185+00:00",
+    "updated_at": "2025-05-16T08:36:00.875838+00:00",
+    "completed_at": "2025-05-16T08:36:00.875838+00:00",
+    "started_at": "2025-05-16T08:26:08.586774+00:00",
+    "response_time": "11:38:36.517653",
+    "work_time": "0:09:52.289064"
+  },
+  {
+    "id": "09718440-bfdb-42de-bcc4-72526efdf2de",
+    "title": "SI-2025-00099",
+    "description": "Vehicle: 2025 GMC 1500\n\n2025 GMC 1500 LKA SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "LKA 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "sent in chat",
+        "user_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+        "user_name": "rai cardoso"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+    "created_at": "2025-05-29T22:39:52.819443+00:00",
+    "updated_at": "2025-05-30T10:06:32.267252+00:00",
+    "completed_at": "2025-05-30T10:06:32.267252+00:00",
+    "started_at": "2025-05-30T09:06:28.198335+00:00",
+    "response_time": "11:26:39.447809",
+    "work_time": "1:00:04.068917"
+  },
+  {
+    "id": "213b46a4-fd6c-463e-906f-199c7ca8cfb0",
+    "title": "SI-2025-00089",
+    "description": "Vehicle: 2025 Porsche Macan Electric\n\n2025 Porsche Macan electric ACC and SVC SI ",
+    "status": "new",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": null,
+    "created_at": "2025-05-19T17:06:57.090220+00:00",
+    "updated_at": null,
+    "completed_at": null,
+    "started_at": null,
+    "response_time": null,
+    "work_time": null
+  },
+  {
+    "id": "3fc393ac-61c6-4b03-a1c1-7c3ab92e5d62",
+    "title": "SI-2025-00088",
+    "description": "Vehicle: 2025 BMW M430i\nVIN: 3MW69FT00S8F11731\n\n2025 BMW M430i ACC SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": ".",
+        "user_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+        "user_name": "rai cardoso"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+    "created_at": "2025-05-19T15:12:31.968861+00:00",
+    "updated_at": "2025-05-19T17:16:30.863644+00:00",
+    "completed_at": "2025-05-19T17:16:30.863644+00:00",
+    "started_at": "2025-05-19T16:19:50.461979+00:00",
+    "response_time": "2:03:58.894783",
+    "work_time": "0:56:40.401665"
+  },
+  {
+    "id": "b68f0dc4-25f9-4df6-ad0d-40498c62a669",
+    "title": "SI-2025-00050",
+    "description": "Vehicle: 2025 Ford Expediton\n\n2025 Ford Bronco Sport ACC SI ",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "n/a",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": null,
+    "created_at": "2025-05-01T14:01:49.082922+00:00",
+    "updated_at": "2025-05-20T12:45:55.363133+00:00",
+    "completed_at": "2025-05-20T12:45:55.363133+00:00",
+    "started_at": null,
+    "response_time": null,
+    "work_time": null
+  },
+  {
+    "id": "1d5a5421-714d-439c-a2ed-d4ecd1e3d631",
+    "title": "SI-2025-00090",
+    "description": "Vehicle: 2019 Audi RS3\n\n2019 Audi RS3 ACC, LKA, and BSW SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Site does not have an RS3 for 2019. repackaged A3 SI",
+        "user_id": "79cfea77-20a4-4e2f-8fa3-f0c851960e5e",
+        "user_name": "michael johnson"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "79cfea77-20a4-4e2f-8fa3-f0c851960e5e",
+    "created_at": "2025-05-21T15:49:24.219244+00:00",
+    "updated_at": "2025-05-21T13:52:22.738431+00:00",
+    "completed_at": "2025-05-21T13:52:22.738431+00:00",
+    "started_at": "2025-05-21T13:46:24.082023+00:00",
+    "response_time": "-1 day, 22:02:58.519187",
+    "work_time": "0:05:58.656408"
+  },
+  {
+    "id": "9099f779-825c-4151-893b-c031916b4615",
+    "title": "SI-2025-00091",
+    "description": "Vehicle: 2024 Mitsubishi Outlander\n\nI desperatly need a 2024 Mitsubishi Outlander BUC, more than what we have on file please if we can , and i also need a rear lift gate procedure , like initialization of programming if its been R&Id if that available.  please and thank you this is for a RM so quickly if we can .\n",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BUC",
+        "affected_portions": [
+          "Calibration Procedure",
+          "Justification"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "done",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "5e73921a-d366-404e-94af-405b0b08e0b9",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-05-22T12:50:22.139766+00:00",
+    "updated_at": "2025-05-22T08:21:41.964973+00:00",
+    "completed_at": "2025-05-22T08:21:41.964973+00:00",
+    "started_at": "2025-05-22T08:07:49.661184+00:00",
+    "response_time": "-1 day, 19:31:19.825207",
+    "work_time": "0:13:52.303789"
+  },
+  {
+    "id": "fac50549-bf6e-414c-bb8f-6b274221b346",
+    "title": "SI-2025-00092",
+    "description": "Vehicle: 2024 Toyota Highlander\n\ni need the SI for the front side radars please and ASAP if possible, I tried looking and i cannot find them in the site. \n\n",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "R&I",
+          "Calibration Procedure",
+          "Justification"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "found under Grand highlander",
+        "user_id": "79cfea77-20a4-4e2f-8fa3-f0c851960e5e",
+        "user_name": "michael johnson"
+      }
+    ],
+    "creator_id": "5e73921a-d366-404e-94af-405b0b08e0b9",
+    "acceptor_id": "79cfea77-20a4-4e2f-8fa3-f0c851960e5e",
+    "created_at": "2025-05-23T20:04:52.774691+00:00",
+    "updated_at": "2025-05-23T15:20:59.699288+00:00",
+    "completed_at": "2025-05-23T15:20:59.699288+00:00",
+    "started_at": "2025-05-23T15:00:49.159199+00:00",
+    "response_time": "-1 day, 19:16:06.924597",
+    "work_time": "0:20:10.540089"
+  },
+  {
+    "id": "dd278930-bdf4-46ae-9460-d72465a28f93",
+    "title": "SI-2025-00086",
+    "description": "Vehicle: 2024 BMW IX\nVIN: WB523CF00RCN42537\n\n2024 BMW IX BSW SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BSW-RCTW 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "sent in chat",
+        "user_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+        "user_name": "rai cardoso"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+    "created_at": "2025-05-15T17:51:07.409963+00:00",
+    "updated_at": "2025-05-28T11:49:37.658134+00:00",
+    "completed_at": "2025-05-28T11:49:37.658134+00:00",
+    "started_at": "2025-05-28T11:04:22.339573+00:00",
+    "response_time": "12 days, 17:58:30.248171",
+    "work_time": "0:45:15.318561"
+  },
+  {
+    "id": "b47251d0-47cd-42e7-89ed-7c3cc65bd79d",
+    "title": "SI-2025-00093",
+    "description": "Vehicle: 2024 Ford Explorer\n\nplease remove the \"no AHL\" placeholder and add the AHL SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "AHL",
+        "affected_portions": [
+          "Full Document Missing"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "file updated",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-05-28T16:13:14.206188+00:00",
+    "updated_at": "2025-05-28T11:13:12.151733+00:00",
+    "completed_at": "2025-05-28T11:13:12.151733+00:00",
+    "started_at": "2025-05-28T11:01:13.855119+00:00",
+    "response_time": "-1 day, 18:59:57.945545",
+    "work_time": "0:11:58.296614"
+  },
+  {
+    "id": "95994f0f-74bf-4c0c-b86f-1bcff5d8e61c",
+    "title": "SI-2025-00131",
+    "description": "Vehicle: 2025 Lincoln Aviator\n\n2025 Lincoln Aviator ACC and SVC SI ",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "folders added",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-06-16T21:07:20.450205+00:00",
+    "updated_at": "2025-06-17T16:11:48.019322+00:00",
+    "completed_at": "2025-06-17T16:11:48.019322+00:00",
+    "started_at": "2025-06-17T15:58:06.443586+00:00",
+    "response_time": "19:04:27.569117",
+    "work_time": "0:13:41.575736"
+  },
+  {
+    "id": "a5ae419a-a7ef-40e2-918a-c01da62e6dd7",
+    "title": "SI-2025-00133",
+    "description": "Vehicle: 2023 Mitsubishi Mirage\n\n2023 mitsubishi mirage confirmed to have forward collision mitigation\n",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "AEB 3",
+        "affected_portions": [
+          "Full Document Missing"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "folder updated",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-06-18T14:55:10.024762+00:00",
+    "updated_at": "2025-06-18T09:19:14.368134+00:00",
+    "completed_at": "2025-06-18T09:19:14.368134+00:00",
+    "started_at": "2025-06-18T09:16:39.620503+00:00",
+    "response_time": "-1 day, 18:24:04.343372",
+    "work_time": "0:02:34.747631"
+  },
+  {
+    "id": "cbae420d-b4f0-4bbd-b3b7-16936eb94ef4",
+    "title": "SI-2025-00132",
+    "description": "Vehicle: 2022 Mitsubishi Mirage\n\n2022 mitsubishi mirage confirmed to have forward collision mitigation",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "AEB 3",
+        "affected_portions": [
+          "Full Document Missing"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "folder updated",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-06-18T14:54:38.843890+00:00",
+    "updated_at": "2025-06-18T09:19:25.620583+00:00",
+    "completed_at": "2025-06-18T09:19:25.620583+00:00",
+    "started_at": "2025-06-18T09:16:45.146334+00:00",
+    "response_time": "-1 day, 18:24:46.776693",
+    "work_time": "0:02:40.474249"
+  },
+  {
+    "id": "1df13423-4007-4f93-9eba-041acdcb45b4",
+    "title": "SI-2025-00135",
+    "description": "Vehicle: 2025 Ford Escape\n\n2025 Ford Escape SVC SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "SVC",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "folder built",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-06-18T22:50:11.999894+00:00",
+    "updated_at": "2025-06-19T07:42:54.637268+00:00",
+    "completed_at": "2025-06-19T07:42:54.637268+00:00",
+    "started_at": "2025-06-19T07:29:43.057056+00:00",
+    "response_time": "8:52:42.637374",
+    "work_time": "0:13:11.580212"
+  },
+  {
+    "id": "019d9c75-08b6-4b93-bc88-463f684cfbf1",
+    "title": "SI-2025-00120",
+    "description": "Vehicle: 2013 Ford E-350\n\nPlease add entire model to our SI library",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BUC",
+        "affected_portions": [
+          "Full Document Missing"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "files updated",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": "c1705be3-8cf2-453e-b60f-7c487b14c829",
+    "created_at": "2025-06-10T17:03:16.360377+00:00",
+    "updated_at": "2025-06-19T07:43:45.231449+00:00",
+    "completed_at": "2025-06-19T07:43:45.231449+00:00",
+    "started_at": "2025-06-10T14:22:13.071483+00:00",
+    "response_time": "8 days, 14:40:28.871072",
+    "work_time": "8 days, 17:21:32.159966"
+  },
+  {
+    "id": "8d8e2ee0-9443-4831-be31-aeba72b29bf3",
+    "title": "SI-2025-00109",
+    "description": "Vehicle: 2025 Ford Escape\n\n2025 Ford Escape ACC,SVC,APA,BSM SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "folders built",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-06-04T20:54:03.718336+00:00",
+    "updated_at": "2025-06-19T08:22:59.580435+00:00",
+    "completed_at": "2025-06-19T08:22:59.580435+00:00",
+    "started_at": "2025-06-19T07:45:21.855680+00:00",
+    "response_time": "14 days, 11:28:55.862099",
+    "work_time": "0:37:37.724755"
+  },
+  {
+    "id": "36e4fe07-5d58-4bec-8220-425eeca8ae9d",
+    "title": "SI-2025-00136",
+    "description": "Vehicle: 2025 Ford Escape\n\n25 Ford Escape LKA SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "LKA 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "done",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-06-19T16:55:12.303567+00:00",
+    "updated_at": "2025-06-19T10:57:05.596981+00:00",
+    "completed_at": "2025-06-19T10:57:05.596981+00:00",
+    "started_at": "2025-06-19T10:54:39.928561+00:00",
+    "response_time": "-1 day, 18:01:53.293414",
+    "work_time": "0:02:25.668420"
+  },
+  {
+    "id": "69d94d1b-95fa-4090-b273-5a0605148710",
+    "title": "SI-2025-00063",
+    "description": "Vehicle: 2023 Mitsubishi Outlander\n\nPlease include the work procedures refrenced in the SI provided",
+    "status": "Needs Info",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BSW-RCTW 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Which system is missing information?",
+        "user_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+        "user_name": "Kelsie Ivey"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+    "created_at": "2025-05-05T15:51:32.212074+00:00",
+    "updated_at": "2025-06-19T12:03:36.841115+00:00",
+    "completed_at": null,
+    "started_at": "2025-06-19T11:59:29.389118+00:00",
+    "response_time": null,
+    "work_time": null
+  },
+  {
+    "id": "2cbbb78a-0346-472b-9324-c6fa2a0d3771",
+    "title": "SI-2025-00064",
+    "description": "Vehicle: 2024 Mitsubishi Outlander\n\nplease include missing documents",
+    "status": "Needs Info",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BSW-RCTW 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      },
+      {
+        "system": "BUC",
+        "affected_portions": [
+          "R&I"
+        ]
+      },
+      {
+        "system": "LKA 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Which system is missing information?",
+        "user_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+        "user_name": "Kelsie Ivey"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+    "created_at": "2025-05-05T19:39:38.926304+00:00",
+    "updated_at": "2025-06-19T12:04:27.017916+00:00",
+    "completed_at": null,
+    "started_at": "2025-06-19T12:03:49.588841+00:00",
+    "response_time": null,
+    "work_time": null
+  },
+  {
+    "id": "25631d2a-ce8c-457b-9db0-78d9918bea0f",
+    "title": "SI-2025-00068",
+    "description": "Vehicle: 2024 Mitsubishi Outlander PHEV\n\nplease include work procedures and missing docs",
+    "status": "Needs Info",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BSW-RCTW 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      },
+      {
+        "system": "BUC",
+        "affected_portions": [
+          "R&I"
+        ]
+      },
+      {
+        "system": "LKA 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      },
+      {
+        "system": "SVC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Which systems are missing information?",
+        "user_id": "52a832f6-a76d-44c9-b7cd-797d1dae10b6",
+        "user_name": "Kelsie Ivey"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": null,
+    "created_at": "2025-05-05T19:51:34.176517+00:00",
+    "updated_at": "2025-06-19T12:05:30.506563+00:00",
+    "completed_at": null,
+    "started_at": null,
+    "response_time": null,
+    "work_time": null
+  },
+  {
+    "id": "d8b115a9-0deb-4ba5-961f-45683baf2012",
+    "title": "SI-2025-00138",
+    "description": "Vehicle: 2021 Alfa Romeo Stelvio\n\n2021 Alfa Romeo Stelvio BSW procedure to insall the bracket onto the bumper skin",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BSW-RCTW 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "bracket is serviced with fascia (OEM) google says you can remove the bracket on rear fascia but doesnt say how.",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-06-19T21:56:49.549271+00:00",
+    "updated_at": "2025-06-20T08:07:57.519686+00:00",
+    "completed_at": "2025-06-20T08:07:57.519686+00:00",
+    "started_at": "2025-06-20T07:13:00.968684+00:00",
+    "response_time": "10:11:07.970415",
+    "work_time": "0:54:56.551002"
+  },
+  {
+    "id": "00090995-b6da-459d-ad1e-54f72eda8023",
+    "title": "SI-2025-00134",
+    "description": "Vehicle: 2012 Ford E-350\n\nFollow the list provided and ensure there is an AEB 3, and LKA 1 doc where applicable. For most of them the document will be under the “Interior Rear View Mirror “ R&I",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "LKA 1",
+        "affected_portions": [
+          "Full Document Missing"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "updated folder with what i could find one AEB and LKA.  also updated E-250 and E-150",
+        "user_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+        "user_name": "Deryk Swinnerton"
+      }
+    ],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": "a294fd89-b6eb-456e-9eb8-d699ea6a4426",
+    "created_at": "2025-06-19T15:58:30.759708+00:00",
+    "updated_at": "2025-06-19T11:10:58.298313+00:00",
+    "completed_at": "2025-06-19T11:10:58.298313+00:00",
+    "started_at": "2025-06-19T10:54:46.148344+00:00",
+    "response_time": "-1 day, 19:12:27.538605",
+    "work_time": "0:16:12.149969"
+  },
+  {
+    "id": "4eb61712-a28f-40c0-ab67-956d05ef5abc",
+    "title": "SI-2025-00139",
+    "description": "Vehicle: 2023 BMW X2\nVIN: 5UX53DP01P9P61764\n\n2023 BMW X2 APA and BSW SI",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BSW-RCTW 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "BSW only had description available",
+        "user_id": "f6dae40e-66ff-4525-8f1e-e7723562241d",
+        "user_name": "Austin Pallan"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "f6dae40e-66ff-4525-8f1e-e7723562241d",
+    "created_at": "2025-06-19T22:19:32.346458+00:00",
+    "updated_at": "2025-06-23T13:21:25.355908+00:00",
+    "completed_at": "2025-06-23T13:21:25.355908+00:00",
+    "started_at": "2025-06-23T12:37:49.764207+00:00",
+    "response_time": "3 days, 15:01:53.009450",
+    "work_time": "0:43:35.591701"
+  },
+  {
+    "id": "4e82d017-29df-4d99-a778-8503553f63c1",
+    "title": "SI-2025-00134",
+    "description": "Vehicle: 2024 BMW X5\nVIN: 5UX23EU04R9T73475\n\nACC SI for 24 BMW X5",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [
+      {
+        "text": "Only calibration available",
+        "user_id": "f6dae40e-66ff-4525-8f1e-e7723562241d",
+        "user_name": "Austin Pallan"
+      }
+    ],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "f6dae40e-66ff-4525-8f1e-e7723562241d",
+    "created_at": "2025-06-18T16:25:54.408032+00:00",
+    "updated_at": "2025-06-23T13:45:48.933350+00:00",
+    "completed_at": "2025-06-23T13:45:48.933350+00:00",
+    "started_at": "2025-06-23T12:37:56.021291+00:00",
+    "response_time": "4 days, 21:19:54.525318",
+    "work_time": "1:07:52.912059"
+  },
+  {
+    "id": "9ded5148-4f21-47b7-ac34-19893f0046ce",
+    "title": "SI-2025-00140",
+    "description": "Vehicle: 2025 GMC Yukon\n\ngood afternoon, can please have ACC, SVC, LKA, and APA for a 2025 GMC yukon vin 1GKS1BRD8SR172612",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "R&I",
+          "Calibration Procedure",
+          "Justification"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [],
+    "creator_id": "5e73921a-d366-404e-94af-405b0b08e0b9",
+    "acceptor_id": null,
+    "created_at": "2025-06-25T19:29:28.590434+00:00",
+    "updated_at": "2025-06-25T15:03:24.507348+00:00",
+    "completed_at": "2025-06-25T15:03:24.507348+00:00",
+    "started_at": null,
+    "response_time": null,
+    "work_time": null
+  },
+  {
+    "id": "72010975-c1c1-4f32-ad26-c33d624bd6b1",
+    "title": "SI-2025-00141",
+    "description": "Vehicle: 2024 Nissan Kicks\n\nplease include the calibration procedure as seen in the attachment",
+    "status": "new",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": null,
+    "created_at": "2025-06-25T20:53:57.721806+00:00",
+    "updated_at": null,
+    "completed_at": null,
+    "started_at": null,
+    "response_time": null,
+    "work_time": null
+  },
+  {
+    "id": "70db913d-01c0-4795-af1e-1c3ff5864da5",
+    "title": "SI-2025-00143",
+    "description": "Vehicle: 2023 Mini Cooper\n\n2023 Mini Cooper ACC and LKA SI ",
+    "status": "new",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "ACC 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": null,
+    "created_at": "2025-06-26T16:39:53.139611+00:00",
+    "updated_at": null,
+    "completed_at": null,
+    "started_at": null,
+    "response_time": null,
+    "work_time": null
+  },
+  {
+    "id": "d066e5ee-c037-41ee-81dd-47d4a9a5c1fc",
+    "title": "SI-2025-00144",
+    "description": "Vehicle: 2024 Nissan Pathfinder\n\nPlease include the calibration procedure in our SI",
+    "status": "new",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "BSW-RCTW 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [],
+    "creator_id": "1e51a849-bc64-4feb-831d-ed41d4979c52",
+    "acceptor_id": null,
+    "created_at": "2025-06-26T19:33:18.279701+00:00",
+    "updated_at": null,
+    "completed_at": null,
+    "started_at": null,
+    "response_time": null,
+    "work_time": null
+  },
+  {
+    "id": "348bdd19-ad67-48da-8eed-8258de6d6c5c",
+    "title": "SI-2025-00142",
+    "description": "Vehicle: 2025 Ford Escape\n\n2025 Ford Explorer LKA SI ",
+    "status": "Completed",
+    "year": null,
+    "make": null,
+    "model": null,
+    "systems": [
+      {
+        "system": "LKA 1",
+        "affected_portions": [
+          "Calibration Procedure"
+        ]
+      }
+    ],
+    "affected_portions": [],
+    "meta_data": {},
+    "comments": [],
+    "creator_id": "4e18592f-61d5-4206-b1b3-a483f5a82d12",
+    "acceptor_id": "f6dae40e-66ff-4525-8f1e-e7723562241d",
+    "created_at": "2025-06-26T16:16:27.742790+00:00",
+    "updated_at": "2025-06-26T14:35:43.091190+00:00",
+    "completed_at": "2025-06-26T14:35:43.091190+00:00",
+    "started_at": "2025-06-26T11:56:40.961979+00:00",
+    "response_time": "-1 day, 22:19:15.348400",
+    "work_time": "2:39:02.129211"
+  }
+]

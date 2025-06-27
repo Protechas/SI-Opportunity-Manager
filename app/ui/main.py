@@ -1232,43 +1232,57 @@ class MainWindow(QMainWindow):
         # Initialize UI
         self.initUI()
         
+        # Hide the main window - only auth widget should be visible
+        self.hide()
+        
         # Show auth widget
         self.auth.show()
         
     def _process_asyncio_events(self):
         """Process pending asyncio events"""
         try:
-            self.loop.stop()
-            self.loop.run_forever()
+            # Only process events if the loop is running and not closed
+            if self.loop and not self.loop.is_closed():
+                # Process pending callbacks without blocking
+                self.loop._ready.clear() if hasattr(self.loop, '_ready') else None
         except Exception as e:
             print(f"Error processing asyncio events: {e}")
             
     def closeEvent(self, event):
         """Handle application close event"""
         try:
-            # Stop asyncio timer and close loop
-            self.asyncio_timer.stop()
-            pending = asyncio.all_tasks(self.loop)
-            for task in pending:
-                task.cancel()
-            self.loop.run_until_complete(asyncio.gather(*pending, return_exceptions=True))
-            self.loop.close()
+            # Stop asyncio timer first
+            if hasattr(self, 'asyncio_timer'):
+                self.asyncio_timer.stop()
+            
+            # Clean up asyncio loop safely
+            if hasattr(self, 'loop') and self.loop and not self.loop.is_closed():
+                try:
+                    # Cancel any pending tasks
+                    pending = asyncio.all_tasks(self.loop)
+                    for task in pending:
+                        task.cancel()
+                    
+                    # Try to clean up gracefully
+                    if pending:
+                        self.loop.run_until_complete(asyncio.gather(*pending, return_exceptions=True))
+                except Exception as loop_error:
+                    print(f"Error cleaning up asyncio loop: {loop_error}")
+                finally:
+                    try:
+                        self.loop.close()
+                    except Exception as close_error:
+                        print(f"Error closing loop: {close_error}")
             
             # Hide all windows
-            if hasattr(self, 'toolbar'):
-                self.toolbar.hide()
-            if hasattr(self, 'dashboard'):
-                self.dashboard.hide()
-            if hasattr(self, 'opportunity_form'):
-                self.opportunity_form.hide()
-            if hasattr(self, 'settings'):
-                self.settings.hide()
-            if hasattr(self, 'auth'):
-                self.auth.hide()
-            if hasattr(self, 'account_creation'):
-                self.account_creation.hide()
-            if hasattr(self, 'management_portal'):
-                self.management_portal.hide()
+            for attr_name in ['toolbar', 'dashboard', 'opportunity_form', 'settings', 'auth', 'account_creation', 'management_portal']:
+                if hasattr(self, attr_name):
+                    widget = getattr(self, attr_name)
+                    if widget and hasattr(widget, 'hide'):
+                        try:
+                            widget.hide()
+                        except Exception as hide_error:
+                            print(f"Error hiding {attr_name}: {hide_error}")
                 
             # Accept the close event
             event.accept()
@@ -1291,8 +1305,12 @@ class MainWindow(QMainWindow):
             
     def start_websocket(self):
         """Start WebSocket connection in the event loop"""
-        if self.current_user:
-            asyncio.run_coroutine_threadsafe(self.init_websocket(), self.loop)
+        if self.current_user and self.loop and not self.loop.is_closed():
+            try:
+                asyncio.run_coroutine_threadsafe(self.init_websocket(), self.loop)
+            except RuntimeError as e:
+                print(f"WebSocket initialization skipped due to event loop issue: {e}")
+                # Continue without WebSocket - the app will still function
 
     def on_authentication(self, user):
         """Handle successful authentication"""
@@ -1524,9 +1542,9 @@ def main():
         }
     """)
     
-    # Create and show main window
+    # Create main window but don't show it (only auth widget should be visible)
     window = MainWindow()
-    window.show()
+    # Don't show the main window - only the auth widget will be shown
     
     # Start the event loop
     sys.exit(app.exec_())

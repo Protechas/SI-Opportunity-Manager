@@ -571,9 +571,9 @@ class ManagementPortal(QMainWindow):
         
         # Create table
         self.opportunities_table = QTableWidget()
-        self.opportunities_table.setColumnCount(9)  # Increased column count
+        self.opportunities_table.setColumnCount(11)  # Increased column count to include Vehicle and Systems
         self.opportunities_table.setHorizontalHeaderLabels([
-            "ID", "Title", "Status", "Created By", "Created Date", "Assigned To", "Completion Time", "Response Time", "Actions"
+            "ID", "Title", "Vehicle", "ADAS Systems", "Status", "Created By", "Created Date", "Assigned To", "Completion Time", "Response Time", "Actions"
         ])
         
         # Enable row selection
@@ -585,14 +585,16 @@ class ManagementPortal(QMainWindow):
         
         # Set column widths
         self.opportunities_table.setColumnWidth(0, 80)   # ID
-        self.opportunities_table.setColumnWidth(1, 200)  # Title
-        self.opportunities_table.setColumnWidth(2, 100)  # Status
-        self.opportunities_table.setColumnWidth(3, 150)  # Created By
-        self.opportunities_table.setColumnWidth(4, 150)  # Created Date
-        self.opportunities_table.setColumnWidth(5, 150)  # Assigned To
-        self.opportunities_table.setColumnWidth(6, 150)  # Completion Time
-        self.opportunities_table.setColumnWidth(7, 100)  # Response Time
-        self.opportunities_table.setColumnWidth(8, 150)  # Actions
+        self.opportunities_table.setColumnWidth(1, 150)  # Title
+        self.opportunities_table.setColumnWidth(2, 180)  # Vehicle
+        self.opportunities_table.setColumnWidth(3, 200)  # ADAS Systems
+        self.opportunities_table.setColumnWidth(4, 100)  # Status
+        self.opportunities_table.setColumnWidth(5, 120)  # Created By
+        self.opportunities_table.setColumnWidth(6, 120)  # Created Date
+        self.opportunities_table.setColumnWidth(7, 120)  # Assigned To
+        self.opportunities_table.setColumnWidth(8, 120)  # Completion Time
+        self.opportunities_table.setColumnWidth(9, 100)  # Response Time
+        self.opportunities_table.setColumnWidth(10, 100) # Actions
 
         layout.addWidget(self.opportunities_table)
         tab.setLayout(layout)
@@ -623,22 +625,48 @@ class ManagementPortal(QMainWindow):
                 title_item.setFlags(title_item.flags() & ~Qt.ItemIsEditable)
                 self.opportunities_table.setItem(i, 1, title_item)
                 
+                # Vehicle Information
+                vehicle_info = opp.display_title  # Uses the property that formats "Year Make Model"
+                vehicle_item = QTableWidgetItem(vehicle_info)
+                vehicle_item.setFlags(vehicle_item.flags() & ~Qt.ItemIsEditable)
+                self.opportunities_table.setItem(i, 2, vehicle_item)
+                
+                # ADAS Systems
+                systems_text = ""
+                if opp.systems:
+                    systems_list = []
+                    for system_data in opp.systems:
+                        system_code = system_data.get('system', '')
+                        affected_portions = system_data.get('affected_portions', [])
+                        if affected_portions:
+                            systems_list.append(f"{system_code} ({', '.join(affected_portions)})")
+                        else:
+                            systems_list.append(system_code)
+                    systems_text = "; ".join(systems_list)
+                else:
+                    systems_text = "No systems"
+                
+                systems_item = QTableWidgetItem(systems_text)
+                systems_item.setFlags(systems_item.flags() & ~Qt.ItemIsEditable)
+                systems_item.setToolTip(systems_text)  # Show full text on hover
+                self.opportunities_table.setItem(i, 3, systems_item)
+                
                 # Status
                 status_item = QTableWidgetItem(opp.status)
                 status_item.setFlags(status_item.flags() & ~Qt.ItemIsEditable)
-                self.opportunities_table.setItem(i, 2, status_item)
+                self.opportunities_table.setItem(i, 4, status_item)
                 
                 # Created By
                 creator = db.query(User).filter(User.id == opp.creator_id).first()
                 creator_item = QTableWidgetItem(creator.username if creator else "Unknown")
                 creator_item.setFlags(creator_item.flags() & ~Qt.ItemIsEditable)
-                self.opportunities_table.setItem(i, 3, creator_item)
+                self.opportunities_table.setItem(i, 5, creator_item)
                 
                 # Created Date
                 created_date = opp.created_at.strftime("%Y-%m-%d %H:%M") if opp.created_at else "N/A"
                 created_date_item = QTableWidgetItem(created_date)
                 created_date_item.setFlags(created_date_item.flags() & ~Qt.ItemIsEditable)
-                self.opportunities_table.setItem(i, 4, created_date_item)
+                self.opportunities_table.setItem(i, 6, created_date_item)
                 
                 # Assigned To
                 assigned_to = "Unassigned"
@@ -648,7 +676,7 @@ class ManagementPortal(QMainWindow):
                         assigned_to = f"{acceptor.first_name} {acceptor.last_name}"
                 assigned_item = QTableWidgetItem(assigned_to)
                 assigned_item.setFlags(assigned_item.flags() & ~Qt.ItemIsEditable)
-                self.opportunities_table.setItem(i, 5, assigned_item)
+                self.opportunities_table.setItem(i, 7, assigned_item)
                 
                 # Completion Time
                 completion_time = "N/A"
@@ -656,7 +684,7 @@ class ManagementPortal(QMainWindow):
                     completion_time = opp.completed_at.strftime("%Y-%m-%d %H:%M")
                 completion_item = QTableWidgetItem(completion_time)
                 completion_item.setFlags(completion_item.flags() & ~Qt.ItemIsEditable)
-                self.opportunities_table.setItem(i, 6, completion_item)
+                self.opportunities_table.setItem(i, 8, completion_item)
                 
                 # Response Time
                 response_time = "N/A"
@@ -670,7 +698,7 @@ class ManagementPortal(QMainWindow):
                         response_time = f"{hours:02d}h {minutes:02d}m"
                 response_item = QTableWidgetItem(response_time)
                 response_item.setFlags(response_item.flags() & ~Qt.ItemIsEditable)
-                self.opportunities_table.setItem(i, 7, response_item)
+                self.opportunities_table.setItem(i, 9, response_item)
                 
                 # Actions - Create widget with buttons
                 actions_widget = QWidget()
@@ -712,7 +740,7 @@ class ManagementPortal(QMainWindow):
                 delete_btn.clicked.connect(lambda checked, oid=opp.id: self.delete_opportunity(oid))
                 actions_layout.addWidget(delete_btn)
                 
-                self.opportunities_table.setCellWidget(i, 8, actions_widget)
+                self.opportunities_table.setCellWidget(i, 10, actions_widget)
                 
         finally:
             db.close()
